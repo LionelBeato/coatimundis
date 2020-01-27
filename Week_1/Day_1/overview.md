@@ -44,6 +44,9 @@ Link to how to create and delete files in comman prompt on windows:
 
 https://www.wikihow.com/Create-and-Delete-Files-and-Directories-from-Windows-Command-Prompt
 
+Java Docs documentation https://docs.oracle.com/en/java/javase/11/docs/api/index.html
+javascript documentation https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
 
 
  
