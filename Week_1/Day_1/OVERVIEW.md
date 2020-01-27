@@ -1,7 +1,6 @@
-# Agenda for Today
+# Agenda
 
 - Setup GitHub pages
-- Install IDEA
 - Install a text editor
 
 
@@ -17,7 +16,7 @@
     - Install and setup git 
 
 
-## Lab Time 
+## Lab 
 
 1. Create a website! Make a folder with the following files:
     -  index.html
@@ -34,7 +33,7 @@
 
 
 
-## Helpful Links
+## Links
 
 Online IDE, we'll make heavy use of this in class: 
 
