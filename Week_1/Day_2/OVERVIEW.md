@@ -3,7 +3,6 @@
 ## Agenda
 
 - Pose question: What did we think of our first day?
-- Watch brief JavaScript video 
 - Go through slides
 - Complete assignment 
 
@@ -11,14 +10,21 @@
 ## Outline
 
 - Settling in
-- JavaScript Slides
+- HTML Slides
 - Break
 - Version Control Slides
 - Assignment
 - Lab time
 - Office hours
 
-## Lab 
+## Labs
+
+### HTML
+
+1. Create an html file with a header, nav, and footer. Remember to use div tags. If you want, you can expand on yesterday's project.
+2. Create a p element and incorporate span. Give your span some sort of styling. 
+3. Style your elements however you like! Try to get elements centered and blocked out. 
+
 
 
 ## Links 
@@ -36,3 +42,6 @@ Quickly look up git commands!
 
 https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
 
+### git training and tools (great for beginners!)
+
+https://try.github.io/
