@@ -25,7 +25,12 @@
 2. Create a p element and incorporate span. Give your span some sort of styling. 
 3. Style your elements however you like! Try to get elements centered and blocked out. 
 
+### git
 
+1. Take your project from today (or yesterday) and make it a git repository. 
+2. Create a remote on github and link your repositories. 
+3. (Optional) Play around with branching. See if you can make a "testing" branch. 
+4. (Super Optional) Merge your testing branch into master. 
 
 ## Links 
 
@@ -45,3 +50,7 @@ https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
 ### git training and tools (great for beginners!)
 
 https://try.github.io/
+
+### how to make a great readme! 
+
+https://www.makeareadme.com/
