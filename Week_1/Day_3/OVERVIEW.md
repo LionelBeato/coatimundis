@@ -9,9 +9,9 @@
 ## Outline
 
 - 7:30AM-8:10AM  Settling in
-- 8:10AM-9:30AM IDEA slides
+- 8:10AM-9:30AM Slides
 - 9:30AM-9:40AM Break
-- 9:40AM-9:50AM CSS & Bootstrap slides
+- 9:40AM-9:50AM Slides
 - 9:50AM-12:00PM Assignment
 - 12:00PM-1:00PM Lunch
 - 1:00PM-3:30PM Lab time
@@ -19,9 +19,28 @@
 
 ## Labs 
 
+### Java
+
+1. Create a package in Intellij with simple command line boilerplate.
+2. Customize the command line to say something you'd like. 
+3. 
+
 ### Bootstrap
 
+1. Make a site using Bootstrap! I encourage the use of VS Code with the bootstrap extension. 
+2. Make a repo on GitHub and push your project there! 
+
+
+
 ## Links
+
+### JDK link (not necessary but good to have, Intellij already comes installed with a JDK)
+
+http://jdk.java.net/13/
+
+### IDEA Intellij
+
+https://www.jetbrains.com/idea/
 
 ### Bootstrap Main Link
 
