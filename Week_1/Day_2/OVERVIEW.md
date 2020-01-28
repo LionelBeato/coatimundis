@@ -19,13 +19,13 @@
 
 ## Labs
 
-### HTML
+### HTML Assignment
 
 1. Create an html file with a header, nav, and footer. Remember to use div tags. If you want, you can expand on yesterday's project.
 2. Create a p element and incorporate span. Give your span some sort of styling. 
 3. Style your elements however you like! Try to get elements centered and blocked out. 
 
-### git
+### git Assignment
 
 1. Take your project from today (or yesterday) and make it a git repository. 
 2. Create a remote on github and link your repositories. 
@@ -54,3 +54,7 @@ https://try.github.io/
 ### how to make a great readme! 
 
 https://www.makeareadme.com/
+
+### git visualization
+
+https://marklodato.github.io/visual-git-guide/index-en.html
