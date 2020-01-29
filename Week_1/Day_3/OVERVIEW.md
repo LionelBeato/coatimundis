@@ -55,3 +55,7 @@ https://www.jetbrains.com/idea/
 ### Bootstrap Main Link
 
 https://getbootstrap.com/
+
+### Fontawesome links
+
+https://fontawesome.com/
