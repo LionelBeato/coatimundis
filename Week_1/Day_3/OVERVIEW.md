@@ -23,7 +23,10 @@
 
 1. Create a package in Intellij with simple command line boilerplate.
 2. Customize the command line to say something you'd like. 
-3. 
+3. Create a new Class
+4. Create methods in your new class
+5. Reference that class in main
+
 
 ### Bootstrap
 
