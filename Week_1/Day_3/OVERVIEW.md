@@ -1,4 +1,4 @@
-# January 28, 2020 - Day 3
+# January 29, 2020 - Day 3
 
 ## Agenda
 
