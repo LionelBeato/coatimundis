@@ -31,7 +31,8 @@
 ### Bootstrap
 
 1. Make a site using Bootstrap! I encourage the use of VS Code with the bootstrap extension. 
-2. Make a repo on GitHub and push your project there! 
+2. Make sure you have three rows, and at least two columns. Remember margins and padding (bootstrap classes:m-1,p-1)
+3. Make a repo on GitHub and push your project there! 
 
 
 
