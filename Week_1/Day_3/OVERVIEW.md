@@ -34,6 +34,12 @@
 2. Make sure you have three rows, and at least two columns. Remember margins and padding (bootstrap classes:m-1,p-1)
 3. Make a repo on GitHub and push your project there! 
 
+## Homework
+
+1. (Optional) Create a repo for your Java project and push it there. 
+2. (Super Optional) console.log() on your bootstrap page.
+3. (Super Duper Optional) Look into writing an alert function and call it on a button.  
+
 
 
 ## Links
