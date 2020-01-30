@@ -20,7 +20,6 @@
 ### Math
 
 1. In your script file, create a function that converts inches to centimeters. console.log the result. 
-
 2. Remember that 1 inch is equal to 2.54 centimeters 
 3. See if you can make your program dynamic but allowing you to plug in whatever value that you want.
 
