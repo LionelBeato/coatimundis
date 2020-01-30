@@ -43,8 +43,6 @@
 1. Create a simple rock paper scissors game in Javascript. I recommend using node. 
 2. It can be only one round if that makes it easier for you. Remember that you need to compare different hands and give a result accordingly(console.log). 
 
-### Homework for the day
-
 ## Links
 
 ### NPM 
