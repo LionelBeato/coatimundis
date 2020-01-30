@@ -40,8 +40,6 @@
 2. (Super Optional) console.log() on your bootstrap page.
 3. (Super Duper Optional) Look into writing an alert function and call it on a button.  
 
-
-
 ## Links
 
 ### JDK link (not necessary but good to have, Intellij already comes installed with a JDK)
