@@ -17,10 +17,21 @@
 
 ## Labs 
 
+### Math
+
 1. In your script file, create a function that converts inches to centimeters. console.log the result. 
 
 2. Remember that 1 inch is equal to 2.54 centimeters 
 3. See if you can make your program dynamic but allowing you to plug in whatever value that you want.
+
+### Conditional statement
+
+1. stores the number of cups (that a person has consumed) in a variable
+
+2. if the person has had less than 3 cups log a message to the console saying: ("Yes I'll take another cup of coffee")
+3. if not log a message to console saying ("I think I'm okay for now")   
+ 
+
 
 ## Homework
 
