@@ -56,3 +56,7 @@ https://jquery.com/
 ### Mozilla Web Docs (Documentation for JavaScript)
 
 https://developer.mozilla.org/en-US/
+
+### Fireship History of JS Video
+
+https://www.youtube.com/watch?v=Sh6lK57Cuk4
