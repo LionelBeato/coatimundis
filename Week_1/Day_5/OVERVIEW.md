@@ -38,10 +38,16 @@
 1. Create a trello account and make a board for this class with tasks and issues you want to track.
 2. Create a Jira account. 
 3. For the OOP Practice example, push it to github and create a github project for it. 
+4. Create at least two issues on it and work on those issues in your code. 
+5. Push everything and you're done for the day! 
 
 ## Homework
 
-### Homework for the day
+### (Optional, but strongly suggested) Review and Catchup 
+
+1. Review all of the work you did.
+2. Catch up on any labs or homework you didn't do.
+3. Push them to github.
 
 ## Links
 
