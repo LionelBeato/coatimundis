@@ -2,7 +2,18 @@
 
 ## Agenda
 
-- What needs to be done
+- Learn about Object Oriented Programming, computer architecture and Agile development. 
+
+- (AEIP) All Eagles Inherit Plumage (The four principles of OOP)
+    - Abstraction: Hide away the code
+    - Encapsulation: Wrapping up the code
+    - Inheritance: Inherit properties of the code
+    - Polymorphism: Code can act as other code
+
+- Review Computer and Language Architecture 
+
+- Go over Agile. Become introduced to Jira, Trello, and GitHub Project
+
 
 ## Outline
 
