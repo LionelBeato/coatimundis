@@ -28,7 +28,16 @@
 
 ## Labs 
 
-### Assignment for the day
+### Java OOP Practice 
+
+1. Make two new classes where one is a superset of the other. Think animal to cat, aircraft to plane, etc. 
+2. Override a method in a child class and make it do something different (you can return a string, for example).
+
+### Agile Development
+
+1. Create a trello account and make a board for this class with tasks and issues you want to track.
+2. Create a Jira account. 
+3. For the OOP Practice example, push it to github and create a github project for it. 
 
 ## Homework
 
