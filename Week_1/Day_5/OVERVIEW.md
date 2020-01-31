@@ -51,4 +51,14 @@
 
 ## Links
 
-### Links 
+### Trello (online kanban board)
+
+http://www,trello.com
+
+### github Projects board help
+
+https://help.github.com/en/github/managing-your-work-on-github/about-project-boards
+
+### Jira (online Scrum tool)
+
+https://www.atlassian.com/software/jira
