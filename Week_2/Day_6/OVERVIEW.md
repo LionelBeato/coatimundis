@@ -4,6 +4,22 @@
 
 - Review CSS properties and how to build a website. Review wireframes and utilize it in our workflows. 
 
+- LAMP
+    - Linux
+    - Apache
+    - MySQL
+    - PHP
+
+- MEAN
+ - MongoDB
+ - Express 
+ - Angular
+ - Nodejs (server-side javascript)
+
+- MERN (MEAN with React)
+
+- The three main libraries/frameworks (React, Angular, and Vue)
+
 ## Outline
 
 - 7:30AM-8:10AM  Settling in
@@ -30,6 +46,12 @@
 2. Install the Heroku CLI tool (link down below!)
 
 
+### Fullfledged Website
+
+1. Create a website (remember than you can reuse your code from previous efforts).
+2. Have 5 different CSS Selectors with at least one having 3 different properties. 
+3. Play around with any of the tech we learned today, I suggest embedding a youtube video that you like. 
+4. Push it to github and host it through github pages! 
 
 ## Links
 
