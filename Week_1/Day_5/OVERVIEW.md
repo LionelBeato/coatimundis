@@ -62,3 +62,8 @@ https://help.github.com/en/github/managing-your-work-on-github/about-project-boa
 ### Jira (online Scrum tool)
 
 https://www.atlassian.com/software/jira
+
+
+### Link to main java project I'm working on in class
+
+https://github.com/LionelBeato/firstjavaproject/tree/master/src/HelloWorld
