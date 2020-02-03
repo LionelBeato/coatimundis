@@ -55,10 +55,11 @@
 
 ## Homework
 
-### React homework!
+### React homework! (Optional)
 
 1. Lets try out React! Use npx create-react-app to start off. 
-2. Make a new component that shows your name and add some text about yourself. 
+2. Make a new component that shows your name and add some text about yourself.
+3. Push it to github. 
 
 ## Links
 
