@@ -17,6 +17,12 @@
 
 ## Labs 
 
+### Quick CSS Lab
+
+1. Create a website project (remember the three main files that we have to make!).
+2. In our CSS, style an element with a unique property. I recommend trying border-radius on an image.
+3. Push it to github! 
+
 
 
 ## Links
