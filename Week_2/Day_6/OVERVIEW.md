@@ -24,6 +24,12 @@
 3. Push it to github! 
 
 
+### Heroku
+
+1. Sign up for Heroku
+2. Install the Heroku CLI tool (link down below!)
+
+
 
 ## Links
 
@@ -36,7 +42,7 @@ https://unsplash.com/
 https://fonts.google.com/
 
 
-### Heroku deployment and CLI tool
+### Heroku deployment and CLI tool 
 
 https://www.heroku.com/home
 https://devcenter.heroku.com/articles/heroku-cli
