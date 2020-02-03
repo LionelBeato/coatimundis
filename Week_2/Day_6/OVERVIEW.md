@@ -35,3 +35,9 @@ https://unsplash.com/
 
 https://fonts.google.com/
 
+
+### Heroku deployment and CLI tool
+
+https://www.heroku.com/home
+https://devcenter.heroku.com/articles/heroku-cli
+
