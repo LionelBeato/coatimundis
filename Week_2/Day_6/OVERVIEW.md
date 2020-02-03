@@ -48,7 +48,8 @@
 
 ### Fullfledged Website
 
-1. Create a website (remember than you can reuse your code from previous efforts).
+
+1. Make a wireframe for a website. Create that website (remember than you can reuse your code from previous efforts).
 2. Have 5 different CSS Selectors with at least one having 3 different properties. 
 3. Play around with any of the tech we learned today, I suggest embedding a youtube video that you like. 
 4. Push it to github and host it through github pages! 
