@@ -78,3 +78,9 @@ https://fonts.google.com/
 https://www.heroku.com/home
 https://devcenter.heroku.com/articles/heroku-cli
 
+
+### React Getting Started page
+
+https://reactjs.org/docs/getting-started.html
+
+
