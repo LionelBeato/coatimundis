@@ -53,6 +53,13 @@
 3. Play around with any of the tech we learned today, I suggest embedding a youtube video that you like. 
 4. Push it to github and host it through github pages! 
 
+## Homework
+
+### React homework!
+
+1. Lets try out React! Use npx create-react-app to start off. 
+2. Make a new component that shows your name and add some text about yourself. 
+
 ## Links
 
 ### Unsplash
