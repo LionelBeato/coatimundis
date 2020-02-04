@@ -45,6 +45,12 @@
 
 ## Homework
 
+### (Super Optional) Play around with other CSS Framework
+
+1. Find a framework that you like and use it on a website. (bulma, materialize, etc)
+2. Try to use at least two different components. 
+3. Push it to GitHub. 
+
 
 ## Links
 
