@@ -1,18 +1,63 @@
-.orange{
-    background-color: #FE5F55 !important;
-    color:white !important;
+:root{
+    --main-bg-color:#0B3954;
+    --main-el-color:#087E8B;
+    --main-txt-color:#BFD7EA;
+    --main-accent-color:#FF5A5F;
+
 }
 
-.apricot{
-    background-color: rgb(145, 83, 26) !important;
-    color:white;
+a:link, a:visited{
+    color:var(--main-txt-color);
+}
+
+* {
+    background-color: var(--main-bg-color) !important ;
+    color: var(--main-txt-color);
+    font-family: 'Roboto', sans-serif;
+
 }
 
 .navbar{
-    background-color: aqua !important;
+    background-color: var(--main-el-color);
+}
+.firstlet{
+    font-weight: bolder;
+}
+
+.justified{
+    text-align: justify;
+  text-justify: auto;
+}
+
+span{
+    color:var(--main-accent-color);
+}
+
+.display-3{
+    font-family: 'Sacramento', cursive;
+
+    animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+
 }
 
 
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+
+footer{
+    width:100%;
+    /* height:2rem; */
+    border-top: 1rem;
+    text-align: center;
+    background-color: var(--main-accent-color)!important;
+}
+
+/* .btn{
+    background-color: var(--main-el-color) !important;
+} */
 
 @media (max-width: 500px){
 
