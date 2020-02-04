@@ -32,7 +32,7 @@
     - footer
 
 
-2. Have at least 10 components in total for your page. Rmemember to use cols and rows. Remember to wrap root elements in a container as well!
+2. Have at least 10 components in total for your page. Recall the hierarchy (container then row then col). Remember to wrap root elements in a container as well!
 3. Have at leat 2 selectors for your CSS. Try to overwrite or style some bootstrap components! 
 4. Push it to github!
 5. (Optional) Host it on github Pages!
