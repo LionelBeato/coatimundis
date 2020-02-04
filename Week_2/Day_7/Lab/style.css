@@ -1,0 +1,23 @@
+.orange{
+    background-color: #FE5F55 !important;
+    color:white !important;
+}
+
+.apricot{
+    background-color: rgb(145, 83, 26) !important;
+    color:white;
+}
+
+.navbar{
+    background-color: aqua !important;
+}
+
+
+
+@media (max-width: 500px){
+
+    #myId{
+        display:none;
+    }
+
+}
