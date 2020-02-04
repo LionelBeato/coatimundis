@@ -49,8 +49,12 @@ span{
 
 footer{
     width:100%;
+    position: fixed;
+    box-shadow: inset 0px 10px 20px 0px rgba(0,0,0,0.25);
+    bottom:0;
     /* height:2rem; */
-    border-top: 1rem;
+    border-top: solid 1px;
+    border-color: black;
     text-align: center;
     background-color: var(--main-accent-color)!important;
 }
