@@ -26,7 +26,7 @@
 
 2. Add in at least two psuedo-classes and two psuedo-elements, so four psuedo-selectors in total.
 
-3. (Optional) Create one element that "pops up" when you however over it. You would need to use drop shadow and, if you'd like, positioning. 
+3. (Optional) Create one element that "pops up" when you hover over it. You would need to use drop shadow and, if you'd like, positioning. 
 
 4. (Super Optional) Look up how to animate it and add it to your code!
 
