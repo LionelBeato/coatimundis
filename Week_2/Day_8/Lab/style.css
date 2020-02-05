@@ -47,8 +47,9 @@ a:hover {
 }
 
 /* this is a psuedo-element */
+/* Adding !important is considered by some to be a code smell */
 .myClass::first-line{
-    color:hotpink;
+    color:hotpink !important;
 }
 
 /* another psuedo-element, this one is being affected by the one defined before it because it renders on the first line */

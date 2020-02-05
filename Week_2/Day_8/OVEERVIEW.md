@@ -14,7 +14,8 @@
 - 9:40AM-9:50AM Slides
 - 9:50AM-12:00PM Assignment
 - 12:00PM-1:00PM Lunch 
-- 1:00PM-3:30PM Lab time
+- 1:00PM-1:30PM Sass Presentation
+- 1:30PM-3:30PM Lab time
 - 3:30PM-5:00PM Office Hours 
 
 ## Labs 
@@ -31,10 +32,14 @@
 
 5. Push it to GitHub. 
 
-
-
 ## Homework
-
 
 ## Links
 
+### Web Docs for Pseudo Selectors! 
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements
+
+### CSS-Tricks (great resource for CSS related tips and tricks!)
+
+https://css-tricks.com/
