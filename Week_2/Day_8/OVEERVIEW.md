@@ -21,7 +21,7 @@
 
 ### Variables and  Pseudo-selectors
 
-1. On your website, refactor all of the CSS so that you use variables instead of repeating yourself (this is ideal if you used a color pallete!).
+1. On your website, ***refactor*** all of the CSS so that you use variables instead of repeating yourself (this is ideal if you used a color pallete!).
 
 2. Add in at least two psuedo-classes and two psuedo-elements, so four psuedo-selectors in total.
 
