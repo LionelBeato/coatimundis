@@ -34,6 +34,18 @@
 
 ## Homework
 
+### (Optional) Sass Experimentation
+
+1. Create a simple text based website to work with. Use npm init.
+2. Install Sass to that project.
+3. Experiment with declaring different variables. See if you like one CSS implementation over another. Is one faster or cleaner? Why or why not? Maybe write down how you feel about Sass on your website. 
+4. Push it to GitHub! 
+
+### (Super Optional) Sass Implementation
+
+1. Take your website from the lab and implement Sass into it. Remember that you might have to convert into a node project. 
+2. Push your changes to GitHub! 
+
 ## Links
 
 ### Web Docs for Pseudo Selectors! 
