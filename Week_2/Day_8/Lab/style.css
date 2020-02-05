@@ -23,6 +23,7 @@ header {
 
     border: 1px red dotted;
 
+    /* the 2 in this property defines the line-height which is more or less the height of the box surrounding your text */
     font: italic small-caps bold 16px/2 cursive;
 
     position: relative;
