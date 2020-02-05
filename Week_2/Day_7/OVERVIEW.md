@@ -1,4 +1,4 @@
-# Febuary 3, 2020 - Day 6
+# Febuary 4, 2020 - Day 7
 
 ## Agenda
 
@@ -66,4 +66,7 @@ https://websitesetup.org/bootstrap-tutorial-for-beginners/
 
 https://chocolatey.org/ 
 
+### List of popular CSS frameworks for 2020
+
+https://www.mockplus.com/blog/post/css-framework
 

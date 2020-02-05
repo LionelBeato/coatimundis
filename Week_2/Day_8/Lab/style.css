@@ -1,0 +1,56 @@
+:root{
+    --primary:green;
+    --secondary:red;
+}
+
+header, main {
+    color:var(--primary);
+}
+
+header {
+    /* margin-top:10px;
+    margin-right:10px;
+    margin-left:10px;
+    margin-bottom:10px; */
+
+    float:left;
+
+    margin: 10px 10px 10px 10px;
+
+    /* border-width:1px;
+    border-color:red;
+    border-style:dotted; */
+
+    border: 1px red dotted;
+
+    font: italic small-caps bold 16px/2 cursive;
+
+    position: relative;
+    top:40px;
+    left:40px;
+}
+
+/* nested element */
+footer #myId{
+    color:var(--secondary);
+}
+
+/* note the psuedo class, this is defining how we want an element to render depending on state */
+a:visited {
+    color:grey;
+}
+
+/* same with this class */
+a:hover {
+    color:hotpink;
+}
+
+/* this is a psuedo-element */
+.myClass::first-line{
+    color:hotpink;
+}
+
+/* another psuedo-element, this one is being affected by the one defined before it because it renders on the first line */
+.myClass::before{
+    content: "This renders before my class"
+}
