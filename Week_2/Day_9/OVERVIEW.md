@@ -21,6 +21,15 @@ my_git => my-git => mygit
 
 #4342-bug-navbar => this naming convention can be applied to *bugs*, *features*, and *hotfixes*.
 
+- What is a release candidate? RC-01.2.3. Basically code that your development team is okay wih shipping. 
+
+- What is testing/development branch? Code that you're actively working on.
+
+- How do I write version numbers? What does this mean? => 0.0.1? Version 1.0 usually means version 1.0.0.! From right to left, the first digit is for hotfixes and bugs and feature development. Second is for major milestones and commits/complete features. Last digit is for release candidates and major revisions. Examples: 
+
+2.323.32
+1.999.93
+
 
 ## Outline
 
@@ -38,6 +47,23 @@ my_git => my-git => mygit
 
 ### Git Practice
 
+1. In your website repository, make a new branch and work on that branch exclusively.
+2. Push that branch to github.
+3. Open a pull request and pull any changes into master.  
+
 ## Homework 
 
+### Work 
+
 ### TBA 
+
+## Links
+
+# git main site
+
+https://git-scm.com/
+https://git-scm.com/docs
+
+## Wikipedia page for version control 
+
+https://en.wikipedia.org/wiki/Version_control
