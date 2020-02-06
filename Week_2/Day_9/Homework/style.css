@@ -1,0 +1,10 @@
+.display-2 {
+    text-align: center;
+    background-image: url("./img/peachBG.jpg");
+    background-size: cover;
+    color:white;
+}
+
+.nav-link {
+    color:grey !important;
+}
