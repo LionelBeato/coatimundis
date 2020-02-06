@@ -84,3 +84,7 @@ https://en.wikipedia.org/wiki/Version_control
 ### Make a readme website 
 
 https://www.makeareadme.com/
+
+### Awesome git links in a README file
+
+https://github.com/maptime/getting-started-with-git-and-github/blob/master/README.md
