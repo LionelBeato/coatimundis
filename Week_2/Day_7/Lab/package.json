@@ -1,0 +1,15 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "quick bootstrap lab",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lionel Beato",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "nodemon": "^2.0.2"
+  }
+}
