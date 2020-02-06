@@ -50,6 +50,6 @@ try {
 ## Links 
 ---
 
-## Quote for the day
+## Quote of the day
 ---
 >*“Talk is cheap. Show me the code.” ― Linus Torvalds*
