@@ -48,22 +48,39 @@ my_git => my-git => mygit
 ### Git Practice
 
 1. In your website repository, make a new branch and work on that branch exclusively.
-2. Push that branch to github.
-3. Open a pull request and pull any changes into master.  
+2. Write a descriptive readme.
+3. Push that branch to github.
+4. Open a pull request and pull any changes into master.
+
+### Website
+
+1. Continue working on your website! Create a new branch that will correspond to a new *feature* on your website. Remember to name it something that makes sense. 
+2. Work on your branch and push it to GitHub. 
+3. (Optional) Add me as a collaborator. 
+4. (Super Optional) Add some javascript to your website!
 
 ## Homework 
 
-### Work 
+### Collaborate on the Classwork Repo
+
+1. Accept my invite to collaborate on my classwork repo.
+2. Create a branch with a unique name that corresponds to a website feature (so navbar/list/etc).
+3. Work on that feature on that branch (in the homework folder) and push it to GitHub.
+4. Open a pull request and wait for me to approve it! 
 
 ### TBA 
 
 ## Links
 
-# git main site
+### git main site
 
 https://git-scm.com/
 https://git-scm.com/docs
 
-## Wikipedia page for version control 
+### Wikipedia page for version control 
 
 https://en.wikipedia.org/wiki/Version_control
+
+### Make a readme website 
+
+https://www.makeareadme.com/
