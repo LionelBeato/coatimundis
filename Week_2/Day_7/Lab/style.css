@@ -1,0 +1,74 @@
+/* Link to colors: https://coolors.co/0b3954-087e8b-bfd7ea-ff5a5f-c81d25 */
+
+:root{
+    --main-bg-color:#0B3954;
+    --main-el-color:#087E8B;
+    --main-txt-color:#BFD7EA;
+    --main-accent-color:#FF5A5F;
+
+}
+
+a:link, a:visited{
+    color:var(--main-txt-color);
+}
+
+* {
+    background-color: var(--main-bg-color) !important ;
+    color: var(--main-txt-color);
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.navbar{
+    background-color: var(--main-el-color);
+}
+.firstlet{
+    font-weight: bolder;
+}
+
+.justified{
+    text-align: justify;
+  text-justify: auto;
+}
+
+span{
+    color:var(--main-accent-color);
+}
+
+.display-3{
+    font-family: 'Sacramento', cursive;
+
+    animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+
+}
+
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+
+footer{
+    width:100%;
+    position: fixed;
+    box-shadow: inset 0px 10px 20px 0px rgba(0,0,0,0.25);
+    bottom:0;
+    /* height:2rem; */
+    border-top: solid 1px;
+    border-color: black;
+    text-align: center;
+    background-color: var(--main-accent-color)!important;
+}
+
+/* .btn{
+    background-color: var(--main-el-color) !important;
+} */
+
+@media (max-width: 500px){
+
+    #myId{
+        display:none;
+    }
+
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08c1440a-afeb-49e9-8074-1c146235f52c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X4TwO1cxvFlqPJDe6iNn0JhTPU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld.HelloWorld" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08c1440a-afeb-49e9-8074-1c146235f52c" name="Default Changelist" comment="" />
+      <created>1580304604897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580304604897</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="978" height="181" key="GridCell.Tab.0.bottom" timestamp="1580307081418">
+      <screen x="1920" y="0" width="1024" height="768" />
+    </state>
+    <state width="978" height="181" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1024.768@1920.0.1024.768" timestamp="1580307081418" />
+    <state width="978" height="181" key="GridCell.Tab.0.center" timestamp="1580307081418">
+      <screen x="1920" y="0" width="1024" height="768" />
+    </state>
+    <state width="978" height="181" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1024.768@1920.0.1024.768" timestamp="1580307081418" />
+    <state width="978" height="181" key="GridCell.Tab.0.left" timestamp="1580307081418">
+      <screen x="1920" y="0" width="1024" height="768" />
+    </state>
+    <state width="978" height="181" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1024.768@1920.0.1024.768" timestamp="1580307081418" />
+    <state width="978" height="181" key="GridCell.Tab.0.right" timestamp="1580307081418">
+      <screen x="1920" y="0" width="1024" height="768" />
+    </state>
+    <state width="978" height="181" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1024.768@1920.0.1024.768" timestamp="1580307081418" />
+  </component>
+</project>

@@ -1,0 +1,81 @@
+:root{
+    --primary:green;
+    --secondary:rgb(216, 171, 171);
+}
+
+header, main {
+    /* color:var(--primary); */
+}
+
+header {
+    /* margin-top:10px;
+    margin-right:10px;
+    margin-left:10px;
+    margin-bottom:10px; */
+
+    float:left;
+
+    margin: 10px 10px 10px 10px;
+
+    /* border-width:1px;
+    border-color:red;
+    border-style:dotted; */
+
+    /* border: 1px red dotted; */
+
+    /* the 2 in this property defines the line-height which is more or less the height of the box surrounding your text */
+    font: italic small-caps bold 16px/2 cursive;
+
+    position: relative;
+    top:40px;
+    left:40px;
+}
+
+.square{
+    height:14em;
+    width:14em;
+    background-color: var(--secondary);
+    position: relative;
+    top: 10em;
+    margin:auto;
+    border-radius: 10px; 
+}
+
+@keyframes mysquare{
+
+    0% {top:10em; box-shadow: 0 0 0 rgba(0,0,0,0);}
+    100% {top:9.5em; box-shadow: 0 10px 10px rgba(0,0,0,0.3);}
+
+}
+
+.square:hover{
+    box-shadow: 0 10px 10px rgba(0,0,0,0);
+    animation: 0.2s mysquare forwards;
+
+}
+
+/* nested element */
+footer #myId{
+    color:var(--secondary);
+}
+
+/* note the psuedo class, this is defining how we want an element to render depending on state */
+a:visited {
+    color:grey;
+}
+
+/* same with this class */
+a:hover {
+    color:hotpink;
+}
+
+/* this is a psuedo-element */
+/* Adding !important is considered by some to be a code smell */
+/* .myClass::first-line{
+    color:hotpink !important;
+} */
+
+/* another psuedo-element, this one is being affected by the one defined before it because it renders on the first line */
+/* .myClass::before{
+    content: "This renders before my class"
+} */
