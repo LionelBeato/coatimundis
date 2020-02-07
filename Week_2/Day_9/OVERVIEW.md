@@ -88,3 +88,19 @@ https://www.makeareadme.com/
 ### Awesome git links in a README file
 
 https://github.com/maptime/getting-started-with-git-and-github/blob/master/README.md
+
+## Tips
+
+This file is a markdown file (.md) I can emphasize like so:
+
+- __bold__
+- *italics*
+- ~~strikethrough~~
+
+
+Here is a code example:
+
+```javascript
+let s = "hello world"
+alert(s)
+```
