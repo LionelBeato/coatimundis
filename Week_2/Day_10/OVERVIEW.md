@@ -27,9 +27,13 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 ## Lab
 ---
 
-### Slides Example
 
 ### Try and Catch
+
+1. In your script file, create a try and catch block with a function inside of it that hasn't been declared. 
+2. Create a custom error messsage that explains why there was an error.
+3. Add a try and catch code block to your website for the week! 
+4. (Optional) Throw a custom error in your try catch block! 
 
 ```javascript
 try {
@@ -41,9 +45,20 @@ try {
 }
 ```
 
+### Accessibility Lab
+
+1. Go back to your website and try to make it accessible. Remember color contrast and text size.
+2. Run some tools on your website in order to test it! 
+3. Push it to github.
+4. (Optional but encouraged) Host it on GitHub Pages.  
+
 
 ## Homework
 --- 
+
+### (Optional!) Slides Example
+
+
 
 ### JavaScript Testing
 
@@ -51,6 +66,18 @@ try {
 ## Links 
 ---
 
+### Contrast Grid
+
+https://contrast-grid.eightshapes.com/
+
+### W3C Accessibility
+
+https://www.w3.org/standards/webdesign/accessibility
+
 ## Quote of the day
 ---
 >*“Talk is cheap. Show me the code.” ― Linus Torvalds*
+
+## Tips
+---
+1. 
