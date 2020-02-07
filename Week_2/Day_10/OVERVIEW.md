@@ -48,9 +48,9 @@ try {
 ### Accessibility Lab
 
 1. Go back to your website and try to make it accessible. Remember color contrast and text size.
+4. Host it on GitHub Pages or use a live server extension (this is needed for Google Lighthouse audits).  
 2. Run some tools on your website in order to test it! 
 3. Push it to github.
-4. (Optional but encouraged) Host it on GitHub Pages.  
 
 
 ## Homework
