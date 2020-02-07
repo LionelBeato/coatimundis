@@ -8,11 +8,12 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 - Review JavaScript error handling. How do we diagnose errors? What are the best practices?
 - Review Try and Catch blocking. 
 - Review testing in JavaScript.  
+- Cover the importance of accessibility and show some examples (AmplifyCT!)
 
 ## Outline
 
 | Time   | Objective                        |
-| -------|:------------------------------   |
+| -------|:---------------------------------|
 | 7:30a  | Settling in                      |
 | 8:10a  | Slides & Presentation            |
 | 9:30a  | Coffee Break                     |
