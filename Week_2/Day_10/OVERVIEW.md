@@ -21,7 +21,7 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 | 9:50a  | Assignment                       |
 | 12:00p | Lunch Break                      |
 | 1:00p  | Lab Hours                        |
-| 3:30p  | Class Dismissed  & Office Hours  |
+| 3:30p  | Class Dismissed & Office Hours   |
 
 
 ## Lab
@@ -50,7 +50,7 @@ try {
 1. Go back to your website and try to make it accessible. Remember color contrast and text size.
 4. Host it on GitHub Pages or use a live server extension (this is needed for Google Lighthouse audits).  
 2. Run some tools on your website in order to test it! 
-3. Push it to github.
+3. Push it to github if it's not already there.
 
 
 ## Homework
@@ -58,10 +58,22 @@ try {
 
 ### (Optional!) Slides Example
 
+1. Follow the example in the slides.
+2. Use your the chrome dev tools to debug the website. 
 
+### Install Deno
 
-### JavaScript Testing
+1. Install deno on your computer. Use the following command if you're on Windows and using Chocolately, or on Mac and using homebrew:
 
+```powershell
+choco install deno
+```
+
+```homebrew
+brew install deno 
+```
+
+2. We don't need to get into the specifics of deno right now, but just know that we'll be using it for when we get to **TypeScript**. More info will be in the links below.
 
 ## Links 
 ---
@@ -74,10 +86,12 @@ https://contrast-grid.eightshapes.com/
 
 https://www.w3.org/standards/webdesign/accessibility
 
+
+### Deno Homepage
+
+https://deno.land/
+
 ## Quote of the day
 ---
 >*“Talk is cheap. Show me the code.” ― Linus Torvalds*
 
-## Tips
----
-1. 
