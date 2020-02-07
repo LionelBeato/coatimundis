@@ -1,0 +1,18 @@
+body {
+    font-family: helvetica;
+}
+h1 {
+  font-size: 23px;
+
+}
+input, button {
+  min-width: 90px;
+  min-height: 50px;
+  border: 2px solid orange;
+}
+label, input, button {
+  display: block;
+}
+input {
+  margin-bottom: 1em;
+}
