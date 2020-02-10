@@ -42,8 +42,15 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 
 ### TODO
 
-
 ## Links 
+
+### ExpressJS Page and Documentation
+
+https://expressjs.com/
+
+### How to send JSON via Express
+
+https://flaviocopes.com/express-send-json-response/
 
 
 ## Quote of the day
