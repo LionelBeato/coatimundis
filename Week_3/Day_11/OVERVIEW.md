@@ -52,6 +52,17 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 1. Install Postman (link below). 
 2. Test your API with the get method (make sure your server is live!).
 
+### Install Heroku
+
+1. Install Heroku to prepare for tomorrow (link down below).
+2. To check if it's installed type "heroku --version" in your CLI. If it gives you a version number, you have heroku installed.
+
+### Refactor your Project
+
+1. Have a backend folder and a frontend folder
+2. Your backend will be set up to track with Heroku, be prepared for that.
+3. Your frontend will track with GitHub.
+
 ### (Optional) Integrate your Object into your frontend
 
 1. See if you can render content that represents your object on the frontend. How would you go about doing that? See if you can figure it out with the tools you have now.
@@ -76,6 +87,10 @@ https://curl.haxx.se/docs/manpage.html
 ### Postman Homepage and Download 
 
 https://www.postman.com/
+
+### Heroku
+
+https://devcenter.heroku.com/articles/heroku-cli
 
 ## Quote of the day
 ---

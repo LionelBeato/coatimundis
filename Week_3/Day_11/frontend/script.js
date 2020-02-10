@@ -1,12 +1,7 @@
-
-
-
-
 const myFunc = () => {
-    fetch('http://localhost:3000/data', {
-        mode:'no-cors'
+    fetch('https://rocky-forest-78029.herokuapp.com/data', {
     })
-    .then(response => {response.json()})
-    .then((json) => console.log(json))
-    document.getElementById("apples").innerHTML = `there are ${apples.amount} ${apples.name}`
+        .then(response => response.json())
+        // .then(json => console.log(json))
+        .then(json => document.getElementById("apples").innerHTML = `there are ${json.amount} ${json.name}`)
 }
