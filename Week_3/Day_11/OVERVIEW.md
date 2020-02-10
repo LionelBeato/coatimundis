@@ -47,6 +47,16 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 1. Using a framework that you like, create the basic components of your website.
 2. Style your project! Keep in mind contrast and accessibility!
 
+### Install Postman and test it 
+
+1. Install Postman (link below). 
+2. Test your API with the get method (make sure your server is live!).
+
+### (Optional) Integrate your Object into your frontend
+
+1. See if you can render content that represents your object on the frontend. How would you go about doing that? See if you can figure it out with the tools you have now.
+2. Push everything to GitHub and you're done for today! 
+
 ## Links 
 
 ### ExpressJS Page and Documentation
@@ -57,6 +67,15 @@ https://expressjs.com/
 
 https://flaviocopes.com/express-send-json-response/
 
+
+### Curl Documentation
+
+https://curl.haxx.se/docs/manpage.html
+
+
+### Postman Homepage and Download 
+
+https://www.postman.com/
 
 ## Quote of the day
 ---
