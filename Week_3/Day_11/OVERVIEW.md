@@ -7,9 +7,14 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 - Cover what JavaScript is, how it works, and why we use it.
     - JavaScript (JS) is a programming language that is lightweight and interpreted by a just-in-time compiler.
 - Define terms such as *interpreted*, *just-in-time*, and *lightwheight*.
-- Explore the difference coding styles and paradigms.
+- Explore the different coding styles and paradigms.
+    - Imperative
+    - Declarative
+    - Object-Oriented 
+    - Functional 
 - Explore where JavaScript is used.
-
+    - JS can be used on the frontend, the backend, and even on desktop! 
+    - Tools like Electron allow for desktop apps built with JS. 
 
 
 ## Outline
@@ -35,12 +40,12 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 3. Use express to serve your .html file.
 4. Use express to serve a **JSON** obect. 
 
-
-
-
 ## Homework
 
-### TODO
+### Style your Project
+
+1. Using a framework that you like, create the basic components of your website.
+2. Style your project! Keep in mind contrast and accessibility!
 
 ## Links 
 
