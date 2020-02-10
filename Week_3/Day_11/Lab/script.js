@@ -1,55 +1,19 @@
-// everything outside of other blocks define the global scope
-// so x is defined globally
+// const http = require('http');
+// const PORT = 8080
 
-// let x = 3
+// 3const server = http.createServer((req, res) => {
+//     res.writeHead(200, { 'Content-Type': 'text/html' }); 
+//     res.end('Hello!')
+// })
 
-
-// // this function is a block scope 
-// function highFunc() {
-
-//     console.log(x)
-
-//     function myFunc() {
-//         let x = 2
-//         console.log(x)
-//     }
-// }
-
-// console.log(x)
-
-(function(){
-
-})
+// server.listen(PORT, () => console.log(`Server is listening on port ${PORT}`))
 
 
+const express = require('express')
+const app = express()
+const port = 3000
 
-// this variable gets hoisted into myFunc()
-// x = 4
-
-
-// this is how you would declare an object 
-let car = {
-    type:"Fiat",
-    model:"500",
-    color:"white"
-}
-
-let myArr = [
-    4, 3, 5, 2
-]
-
-// this code will mutate myArr, something you don't want to do
-// immutability is a key part of functional programming
-// for(let i = 0; i < 4; i++){
-//     //mutate myArr
-//     x = myArr[i] += 2
-//     myArr[i] = x 
-//     console.log(myArr[i])
-// }
-// console.log(myArr)
-
-// map higher order function that allows use to avoid mutability
-// a new array is declared as the result of our higher order function
-newArr = myArr.map(x => x+2)
-
-console.log(newArr)
+app.get('/', (req, res) => res.send('hello there!'))
+app.get('/index', (req, res) => res.sendFile('index.html', {root:__dirname}))
+app.get('/data', (req, res) => res.json({ fruit: 'apple', amount: 4}))
+app.listen(port, () => console.log(`Example port on port ${port}`))
