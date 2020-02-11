@@ -27,6 +27,12 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 
 ### Array Shopping List
 
+1. Create a grocery list array that will hold 4 items. 
+2. Add an item to the tail of the array. 
+3. Change an item in the array (so coffee would turn to tea, for example).
+4. Create a new array to represent your shopping cart. 
+5. Write a loop that takes items from your grocery list and puts them in your cart. 
+
 ### Calculate Tip Function
 
 
