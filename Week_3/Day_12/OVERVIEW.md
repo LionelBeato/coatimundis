@@ -35,6 +35,9 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 
 ### Calculate Tip Function
 
+1. Create a function to calculate gratuity amount.
+2. Set the gratuity amount to 20%. 
+
 
 ## Homework
 
@@ -46,6 +49,10 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 
 
 ## Links 
+
+### Stack Overflow answer on references and values in JS
+
+https://stackoverflow.com/questions/13266616/primitive-value-vs-reference-value/13268731#13268731
 
 
 ## Quote of the day
