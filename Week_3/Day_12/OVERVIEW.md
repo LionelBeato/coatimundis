@@ -46,6 +46,7 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 1. Host your backend on heroku.
 2. Hook it up to your frontend via a fetch method. 
 3. Have the frontend dynamically display backend data. 
+4. Have your backend send something unique (movies, flowers, album).
 
 
 ### Continue Styling your Frontend 
