@@ -48,6 +48,12 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 3. Have the frontend dynamically display backend data. 
 
 
+### Continue Styling your Frontend 
+
+1. Continue styling youe frontend so that it the information displayed looks nice an cohesive.
+2. Once you feel like you've done enough work, push it to a repository on GitHub.
+3. Use GitHub pages to host your frontend. 
+
 ## Links 
 
 ### Stack Overflow answer on references and values in JS
