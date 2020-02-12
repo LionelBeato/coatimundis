@@ -48,6 +48,11 @@ npm install cors
 
 ## Homework
 
+### Set up links for tomorrow
+
+1. In your navigation area, set up links for your project using an a tag.
+2. Tomorrow, we will be linking other pages to our main page, and testing out pointing our pages to our backends endpoints. 
+
 
 ## Links 
 
