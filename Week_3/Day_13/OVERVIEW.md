@@ -9,6 +9,8 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 
 ## Outline
 
+>Take note that I will be taking my lunch at 2:00PM stretching to roughly 3:30PM. 
+
 | Time   | Objective                        |
 | -------|:---------------------------------|
 | 7:30a  | Settling in                      |
@@ -32,5 +34,4 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 
 ## Quote of the day
 ---
->*"Simplicity is prerequisite for reliability." - Edsger W. Dijkstra*
-
+“The most damaging phrase in the language is.. it's always been done this way” - Grace Hopper
