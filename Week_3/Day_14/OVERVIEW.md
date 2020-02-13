@@ -49,6 +49,9 @@
 
 ### Set up MongoDB
 
+1. Go to mongodb.com and create an account.
+2. Install mongodb
+
 ## Links 
 
 ### Good example of web storage 

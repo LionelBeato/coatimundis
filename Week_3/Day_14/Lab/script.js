@@ -4,13 +4,23 @@ let myEl = document.getElementById("myel")
 myEl.innerHTML = "this text is rendered in javascript!"
 myEl.style.color = "blue"
 let myTag = document.getElementsByTagName("h1")
-let myClass = document.getElementsByClassName("myClass")
+//this return an HTMLcollection, with no higher order functions
+let myClass = document.getElementsByClassName("myclass")
 let query = document.querySelector('#header')
+//this returns a node list with a higher order function of forEach
+let otherQ = document.querySelectorAll('.myclass')
+
+console.log(myClass)
+console.log(otherQ)
+otherQ.forEach(el => el.innerHTML="this works")
+
+
 
 // you can explicit set a node's attributes as well!
 
 let elt = document.getElementById("otherel")
 elt.setAttribute("style","color:orange; border: 1px solid")
+elt.style.color = "magenta"
 
 // Objects that I will be storing in memory
 
