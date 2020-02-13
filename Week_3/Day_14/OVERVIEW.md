@@ -45,7 +45,9 @@
 
 ### Hook up your hyperlinks
 
-### Simple TODO List
+1. To add a link, add a href attribute to a tag and point it to the relative path of the html file that you're trying to link to. 
+2. Push it github and test if it works! the url should return a .html at the end of it. 
+
 
 ### Set up MongoDB
 
