@@ -4,6 +4,7 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 
 ## Agenda
 >Review of JavaScript DOM manipulation properties.  Defining the DOM and nodes. Exploring events and event listeners. 
+>Looking into database and app tooling options such as mongoDB and firebase. 
 
 ## Outline
 
@@ -38,9 +39,10 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 
 ## Links 
 
-### CORS install guide
+### Good example of web storage 
 
-https://medium.com/@alexishevia/using-cors-in-express-cac7e29b005b
+https://mdn.github.io/dom-examples/web-storage/
+
 
 ## Quote of the day
 ---
