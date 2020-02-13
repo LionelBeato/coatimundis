@@ -23,6 +23,13 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 
 ## Lab
 
+### Play around with DOM methods
+
+1. Target a specific node on your index.html via a DOM method.
+2. Make a change in your document (you can use innerHTML, for example)
+3. Play around with a window method (remember that in global scope "this" refers to window)
+4. Finally, set something in your current memory using local storage. 
+
 ### Simple TODO List
 
 
