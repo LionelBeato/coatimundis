@@ -1,9 +1,8 @@
-# February 12, 2019 - Day 13 
+# February 13, 2020 - Day 14 
 >This is the OVERVIEW.md or today's class. This file serves as a rough outline of our day. 
 
 ## Agenda
 >Review of JavaScript DOM manipulation properties.  Defining the DOM and nodes. Exploring events and event listeners. 
->Looking into database and app tooling options such as mongoDB and firebase. 
 
 ## Outline
 
