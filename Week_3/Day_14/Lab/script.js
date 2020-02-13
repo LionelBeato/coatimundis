@@ -49,3 +49,22 @@ const handleScroll = () => {
 const handleStorage = () => {
     console.log(localStorage.getItem('my dog'))
 }
+
+// HTML methods for DOM traversing
+
+let items =  document.querySelector('ul').children
+
+// function to check how many items are in my list
+
+const handleList = () => {
+    console.log(items.length) 
+}
+
+const handleRemove = () => {
+    document.querySelector('.remove').remove()
+}
+
+
+elt.addEventListener('click', (event) => console.log("clicked"))
+window.addEventListener('keypress', (event) => console.log('key pressed '))
+// event listeners 

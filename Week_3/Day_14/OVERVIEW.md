@@ -28,24 +28,27 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 1. Target a specific node on your index.html via a DOM method.
 2. Make a change in your document (you can use innerHTML, for example)
 3. Play around with a window method (remember that in global scope "this" refers to window)
-4. Finally, set something in your current memory using local storage. 
+4. Set something in your current memory using local storage.
+5. Finally, add an event listener to your script.js.
+6. Push your lab to github! 
 
-### Simple TODO List
-
-
-### Set up MongoDB
 
 
 ### Continue working on your application
 
 1. Make sure you have a working get method and at least one additional method (I recommend post).
 2. Continue building out your site with semantically coherent elements. Have at least a navbar, main, and a footer. 
-3. Push everything to github.
+3. Add at least one event listener on your website. It can simply output to the console if you want!
+4. Push Everything to github. 
+
 
 ## Homework
 
 ### Hook up your hyperlinks
 
+### Simple TODO List
+
+### Set up MongoDB
 
 ## Links 
 
@@ -53,7 +56,10 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 
 https://mdn.github.io/dom-examples/web-storage/
 
+### Event Listener Documentation
+
+https://developer.mozilla.org/en-US/docs/Web/API/EventListener
+
 
 ## Quote of the day
----
 >"To iterate is human, to recurse divine.” - L. Peter Deutsch
