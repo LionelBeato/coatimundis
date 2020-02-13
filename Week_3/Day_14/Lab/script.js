@@ -7,6 +7,10 @@ let myTag = document.getElementsByTagName("h1")
 let myClass = document.getElementsByClassName("myClass")
 let query = document.querySelector('#header')
 
+// you can explicit set a node's attributes as well!
+
+let elt = document.getElementById("otherel")
+elt.setAttribute("style","color:orange; border: 1px solid")
 
 // Objects that I will be storing in memory
 
@@ -30,14 +34,18 @@ localStorage.setItem('userInfo', storeUser)
 localStorage.setItem('my dog',storeDog)
 
 
-// 
+
 
 console.log(localStorage.getItem('userInfo'))
+
+
+// method to handle resetting the scroll position
 
 const handleScroll = () => {
     window.scroll(0,0)
 }
 
+// method to handle logging storage data for the dog object
 const handleStorage = () => {
     console.log(localStorage.getItem('my dog'))
 }

@@ -38,6 +38,9 @@ This is the OVERVIEW.md or today's class. This file serves as a rough outline of
 
 ### Continue working on your application
 
+1. Make sure you have a working get method and at least one additional method (I recommend post).
+2. Continue building out your site with semantically coherent elements. Have at least a navbar, main, and a footer. 
+3. Push everything to github.
 
 ## Homework
 
