@@ -25,4 +25,10 @@
 
 ## Homework
 
+## Links
+
+### Codepen (a great tool for quickly testing and sharing web code)
+
+https://codepen.io/
+
 ## Quote of the day 

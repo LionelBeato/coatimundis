@@ -71,6 +71,12 @@ https://mdn.github.io/dom-examples/web-storage/
 
 https://developer.mozilla.org/en-US/docs/Web/API/EventListener
 
+### Definition of an API 
+>An API (Application programming interface) is basically everything that lets us interact with a program
+
+https://en.wikipedia.org/wiki/Application_programming_interface
+https://www.mulesoft.com/resources/api/what-is-an-api
+
 
 ## Quote of the day
 >"To iterate is human, to recurse divine.” - L. Peter Deutsch
