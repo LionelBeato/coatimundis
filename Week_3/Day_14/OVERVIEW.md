@@ -50,9 +50,17 @@
 ### Set up MongoDB
 
 1. Go to mongodb.com and create an account.
-2. Install mongodb
+2. Install mongoose through npm 
+
+```node
+npm install mongoose
+```
 
 ## Links 
+
+### Mongoose getting started guide
+
+https://mongoosejs.com/docs/index.html
 
 ### Good example of web storage 
 
