@@ -1,6 +1,5 @@
 # February 12, 2019 - Day 13 
-
-This is the OVERVIEW.md or today's class. This file serves as a rough outline of our day. 
+>This is the OVERVIEW.md or today's class. This file serves as a rough outline of our day. 
 
 ## Agenda
 >Review of JavaScript DOM manipulation properties.  Defining the DOM and nodes. Exploring events and event listeners. 
