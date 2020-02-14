@@ -28,8 +28,8 @@
 14. APIs & the DOM
 15. JQuery, React & MongoDB
 
-## Week 4  Angular Deep Dive  (February 17, 2020
-)
+## Week 4  Angular Deep Dive  (February 17, 2020)
+
 16. NO CLASS President’s Day 
 17. JavaScript Libraries 
 18. Model, View, Controller & Design Patterns
@@ -38,16 +38,15 @@
 
 
 
-## Week 5 Java Deep Dive (February 24, 2020
-)
+## Week 5 Java Deep Dive (February 24, 2020)
+
 21. Angular Animation and Testing
 22. Java Overview
 23. Java Classes and Interfaces
 24. Java Control Flow
 25. Java Lambda and Streams 
 
-## Week 6: Intermediate Programming (March 2, 2020
-)
+## Week 6: Intermediate Programming (March 2, 2020)
 26. Java Linked Lists, Arraylists, Hashmaps
 27. Stacks and Queues
 28. Heaps, Binary Trees and Search Trees
