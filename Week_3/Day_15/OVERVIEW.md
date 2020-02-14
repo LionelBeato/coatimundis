@@ -38,6 +38,10 @@ $("<selector goes here>").text("<content goes here>")
 1. Create a react app using npx create-react-app.
 2. Add in at least two additional components.
 3. Have one component render text via a template literal.
+4. Have a component with a prop that you define as an attribute.
+5. Have a component with state (the count example, for instance)
+6. Push this project to github
+
 
 ## Homework
 
