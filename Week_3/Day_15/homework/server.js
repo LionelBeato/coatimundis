@@ -13,11 +13,14 @@ app.listen(port, () => console.log(`Listening on port ${port}`))
 //mongoose code
 mongoose.connect(uri, {useNewUrlParser: true, useUnifiedTopology:true})
 
+
+//declaring a Dog model with two instances, this creates a collection of dog
 const Dog = mongoose.model("Dog", {name:String})
 const rover = new Dog ({name:'Rover'})
-const rex = new Dog ({name:'Rex'})
-
+const newDog = new Dog ({name:'Rex'})
 
 
 rover.save().then(() => console.log('dog was saved'))
+newDog.save().then(() => console.log('dog was saved'))
+
 Dog.find().then(res => console.log(res))
