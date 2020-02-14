@@ -67,5 +67,8 @@ https://codepen.io/
 ### Mongoose Documentation
 https://mongoosejs.com/docs/api.html
 
+### favicon.io (favicon generator)
+https://favicon.io/
+
 ## Quote of the day 
 >“Always code as if the guy whoup maintaining your code will be a violent psychopath who knows where yo ends u live” - John Woods 
