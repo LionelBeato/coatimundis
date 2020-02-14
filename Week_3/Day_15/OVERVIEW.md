@@ -2,7 +2,7 @@
 
 ## Agenda 
 >Briefly review JQuery
->Dive into ReactJS and Angular.  
+>Dive into ReactJS.  
 >Look into database and app tooling options such as mongoDB and firebase. 
 
 ## Outline
@@ -69,6 +69,9 @@ https://mongoosejs.com/docs/api.html
 
 ### favicon.io (favicon generator)
 https://favicon.io/
+
+### Firebase (Google's sort of version of MongoDB)
+https://www.firebase.google.com/
 
 ## Quote of the day 
 >“Always code as if the guy whoup maintaining your code will be a violent psychopath who knows where yo ends u live” - John Woods 
