@@ -9,9 +9,9 @@ import MyMain from './MyMain'
 function App() {
   return (
     <div>
-    <MyComponent/>
-    <MyMain />
-    <MyFooter />
+      <MyComponent />
+    <MyMain name="Lionel" />
+    <MyFooter color="blue" activity="code" movie="Toy Story"/>
     </div>
   );
 }
