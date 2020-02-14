@@ -1,22 +1,24 @@
 # Agenda
-
-- Setup GitHub pages
-- Install a text editor
-
+>Introductions, setting the tone, and installing necessary software (Intellij & VS Code)
 
 ## Outline
 
-- Intros
-- What I want you to get out of this class 
-- Slides first half
-- Break
-- Slides second half
-- Setup and walkthroughs
-    - Install and setup IDEA
-    - Install and setup git 
+| Time   | Objective                        |
+| -------|:---------------------------------|
+| 7:30a  | Settling in                      |
+| 8:10a  | Slides & Presentation            |
+| 9:30a  | Coffee Break                     |
+| 9:40a  | Slides & Presentation            |
+| 9:50a  | Assignment                       |
+| 12:00p | Lunch Break                      |
+| 1:00p  | Lab Hours                        |
+| 3:30p  | Class Dismissed & Office Hours   |
+
 
 
 ## Lab 
+
+### My First Website
 
 1. Create a website! Make a folder with the following files:
     -  index.html

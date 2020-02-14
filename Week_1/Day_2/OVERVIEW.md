@@ -9,13 +9,17 @@
 
 ## Outline
 
-- Settling in
-- HTML Slides
-- Break
-- Version Control Slides
-- Assignment
-- Lab time
-- Office hours
+| Time   | Objective                        |
+| -------|:---------------------------------|
+| 7:30a  | Settling in                      |
+| 8:10a  | Slides & Presentation            |
+| 9:30a  | Coffee Break                     |
+| 9:40a  | Slides & Presentation            |
+| 9:50a  | Assignment                       |
+| 12:00p | Lunch Break                      |
+| 1:00p  | Lab Hours                        |
+| 3:30p  | Class Dismissed & Office Hours   |
+
 
 ## Labs
 

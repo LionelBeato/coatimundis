@@ -55,9 +55,11 @@ $("<selector goes here>").text("<content goes here>")
 1. Treat today as the deadline for your website. It doesn't have to be complete but you should reach a major milestone.
 2. Once you're done, push everything to git and your heroku! I want to see live, active urls. 
 
-### Catch up on Assignments
+### Review and Catch-up
 
-1. Catch up on any assignments you didn't get a chance to finish.
+1. Review all of the work you did.
+2. Catch-up on any labs or homework you didn't do.
+3. Push them to github.
 
 ## Links
 

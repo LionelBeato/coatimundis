@@ -75,6 +75,12 @@ brew install deno
 
 2. We don't need to get into the specifics of deno right now, but just know that we'll be using it for when we get to **TypeScript**. More info will be in the links below.
 
+### Review and Catch-up
+
+1. Review all of the work you did.
+2. Catch-up on any labs or homework you didn't do.
+3. Push them to github.
+
 ## Links 
 ---
 
