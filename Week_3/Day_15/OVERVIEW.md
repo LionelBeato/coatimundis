@@ -33,9 +33,11 @@ $("<selector goes here>").hide()
 $("<selector goes here>").text("<content goes here>")
 ```
 
+### React!
 
-
-
+1. Create a react app using npx create-react-app.
+2. Add in at least two additional components.
+3. Have one component render text via a template literal.
 
 ## Homework
 
@@ -46,3 +48,4 @@ $("<selector goes here>").text("<content goes here>")
 https://codepen.io/
 
 ## Quote of the day 
+>“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live” - John Woods 
