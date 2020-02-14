@@ -21,7 +21,21 @@
 
 ## Lab
 
-### NA
+### Make Codepen Account and JQuery
+
+1. Make a codepen account and start a new pen
+2. Make sure you import JQuery under javascript settings
+3. Play around with DOM manipulations and save your pen, here are some templates for you to try:
+
+```JQuery
+
+$("<selector goes here>").hide()
+$("<selector goes here>").text("<content goes here>")
+```
+
+
+
+
 
 ## Homework
 
