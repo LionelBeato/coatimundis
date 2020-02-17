@@ -3,6 +3,8 @@
 
 ## Agenda
 No class today. Review anything we covered and get some practice in. 
+
+
 ## Outline
 
 | Time   | Objective                        |
