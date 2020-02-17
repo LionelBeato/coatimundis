@@ -23,11 +23,11 @@ Repository for all of the classwork content related to Tech Talent South!
 ## Week 3: Intermediate Reviews (February 10, 2020)
 
 
-11. JavaScript Review & First Full Stack Project
-12. JS Data Structures & Express 
-13. JavaScript Control Flow 
-14. APIs & the DOM
-15. JQuery, React & MongoDB
+11. [JavaScript Review & First Full Stack Project](https://github.com/LionelBeato/classwork/blob/master/Week-3/Day-11/OVERVIEW.md)
+12. [JS Data Structures & Express](https://github.com/LionelBeato/classwork/blob/master/Week-3/Day-12/OVERVIEW.md) 
+13. [JavaScript Control Flow](https://github.com/LionelBeato/classwork/blob/master/Week-3/Day-13/OVERVIEW.md)
+14. [APIs & the DOM](https://github.com/LionelBeato/classwork/blob/master/Week-3/Day-14/OVERVIEW.md)
+15. [JQuery, React & MongoDB](https://github.com/LionelBeato/classwork/blob/master/Week-3/Day-15/OVERVIEW.md)
 
 ## Week 4  Angular Deep Dive  (February 17, 2020)
 
@@ -75,7 +75,7 @@ Repository for all of the classwork content related to Tech Talent South!
 
 
 
-## Week 9: TBA                (March 23, 2020)
+## Week 9: TBA   (March 23, 2020)
 
 
 41. TBA
@@ -84,7 +84,7 @@ Repository for all of the classwork content related to Tech Talent South!
 44. TBA
 45. TBA
 
-## Week 10: TBA                     (March 30, 2020)
+## Week 10: TBA   (March 30, 2020)
 
 
 46. TBA
@@ -93,7 +93,7 @@ Repository for all of the classwork content related to Tech Talent South!
 49. TBA
 50. TBA
 
-## Week 11: TBA              (April 6, 2020)
+## Week 11: TBA    (April 6, 2020)
 
 
 51. TBA
@@ -102,7 +102,7 @@ Repository for all of the classwork content related to Tech Talent South!
 54. TBA
 55. TBA
 
-## Week 12: TBA           (April 13, 2020)
+## Week 12: TBA  (April 13, 2020)
 
 
 56. TBA
