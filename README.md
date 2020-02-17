@@ -1,6 +1,7 @@
 
 # Class Codename: Coatimundi
->Repository for all of the classwork content related to Tech Talent South!
+
+Repository for all of the classwork content related to Tech Talent South!
 
 ## Week 1: Intro to Full Stack (January 27, 2020)
 
@@ -30,7 +31,7 @@
 
 ## Week 4  Angular Deep Dive  (February 17, 2020)
 
-16. NO CLASS President’s Day 
+16. [NO CLASS President’s Day](https://github.com/LionelBeato/classwork/blob/master/Week-4/Day-16/OVERVIEW.md) 
 17. JavaScript Libraries 
 18. Model, View, Controller & Design Patterns
 19. Angular Basics
