@@ -27,3 +27,7 @@ https://github.com/sindresorhus/awesome
 
 https://github.com/ai/size-limit#readme
 
+
+## Quote of the Day 
+
+>"Good design adds value faster than it adds cost." - Thomas C. Gale 
