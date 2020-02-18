@@ -23,9 +23,10 @@
 
 ### Explore JavaScript Libraries
 
-1. Using npm, install a javascript library. 
+1. Using npm, install a javascript library (lodash, moment, chart.js, etc). 
 2. Implement the functionality of that library (so if I had lodash I would call a lodash method, if I had momentJS I would use it to formate a date, etc)
 3. Try to use more than one library! 
+4. Push your project to GitHub. 
 
 
 ### Create a simple todo app using express
