@@ -28,14 +28,6 @@
 3. Try to use more than one library! 
 4. Push your project to GitHub. 
 
-
-### Create a simple todo app using express
-
-1. Using express, create a backend for a simple todo application. 
-2. Make sure you have full **CRUD** functionality. 
-3. Create a simple frontend for your app.
-
-
 ## Homework
 
 ### Testing out Vue
@@ -45,10 +37,28 @@
 3. Using *v-for* have vue output a list of items of whatever you like. 
 4. Push your application to GitHub! 
 
+### TypeScript Project
+
+1. Using `tsc` to compile a .ts file, create a typescript project. Be sure to have an index.html, style.css, etc. Remember to link the .js and not the .ts in your html! 
+
+2. Declare at least two strongly typed variables. And have them render something to the page. 
+
+3. Push your project to GitHub!
+
 
 ## Links
 
+### TypeScript website
 
+https://www.typescriptlang.org/
+
+### Deno, the secure runtime for TypeScript
+
+https://deno.land/
+
+### VueJS website 
+
+https://www.vuejs.org
 
 
 ## Quote of the Day 
