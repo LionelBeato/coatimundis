@@ -45,6 +45,11 @@
 
 3. Push your project to GitHub!
 
+### Install Angular CLI
+
+1. In your terminal, type in the following: `npm install -g @angular/cli`.
+2. You don't have to do anything with it just yet, just be sure it's ready for tomorrow! 
+
 
 ## Links
 
