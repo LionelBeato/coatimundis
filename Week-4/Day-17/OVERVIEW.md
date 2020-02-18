@@ -3,7 +3,7 @@
 
 ## Agenda
 - Review JS Libraries and middleware such as lodash and moment.
-- Take a deeper dive into React, React Hooks, and show off React frontend example.  
+- Start using TypeScript and explore how TypeScript helps us as developers. 
 
 ## Outline
 
