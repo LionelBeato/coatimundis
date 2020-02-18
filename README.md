@@ -32,7 +32,7 @@ Repository for all of the classwork content related to Tech Talent South!
 ## Week 4  Angular Deep Dive  (February 17, 2020)
 
 16. [NO CLASS President’s Day](https://github.com/LionelBeato/classwork/blob/master/Week-4/Day-16/OVERVIEW.md) 
-17. JavaScript Libraries 
+17. JavaScript Libraries & Intro to TypeScript 
 18. Model, View, Controller & Design Patterns
 19. Angular Basics
 20. Angular Services & Dependency Injection
@@ -110,4 +110,33 @@ Repository for all of the classwork content related to Tech Talent South!
 58. TBA
 59. TBA
 60. TBA
+
+# Index 
+
+- *refactor* : to change code for the better. 
+
+- *code smell* : something that indicates poorly written code.
+
+- *push*, *pushing* : to sync code with a remote repository.
+
+- *best practice(s)* : an established way of doing things. 
+
+- *primitive* : a data type that is typically a basic building block of a language and denotes a value.
+
+- *design pattern* : a reusable solution or methodology that addresses a specific problem. 
+
+
+- *type casting* : to assign the value of one primitive to another. 
+
+- *source code* : the human readable, programmed code for an application. 
+
+- *repository* : in reference to git, a collection of files representing a project, typically composed of source code.
+
+- *machine code* : a set of instructions that can be easily understood by a CPU. 
+
+- *portability* : in regards to software, the ability to run on many different kinds of computers without augmentation. 
+
+- *byte code* : compact, portable code that can be compiled into machine-code. 
+
+- *compiling* : to convert source code into machine-code or byte code. 
 
