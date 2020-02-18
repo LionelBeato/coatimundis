@@ -2,8 +2,9 @@
 
 
 ## Agenda
-- Explore Angular as a tool and framework. 
-- Add styling to our angular projects with Material Design. 
+- Go in depth with web design and graphic design standards and best practices, implementing bootstrap as an example. 
+- Explore software design patterns such as MVC and MVVM. 
+- Create an Angular project using the cli tool.
 
 ## Outline
 
