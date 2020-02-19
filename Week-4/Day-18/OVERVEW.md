@@ -31,6 +31,13 @@
 
 ## Homework
 
+### Model View Controller practice
+
+1. Create an express app using node with a server.js.
+2. Using `modules.export`, create and export a model.js with a class defining your model. Think of it as an object. 
+3. Import that model into your server.js and construct a new object.
+4. Create an index.html and in the head, have code that will fetch and render your object to the DOM. 
+
 
 ## Links
 

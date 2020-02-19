@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script>
+
+
+        // example code for a promise, note the timeout function which creates an interval of time, emulating async operations 
+        const myPromise = new Promise((resolve, reject) => {
+            setTimeout( function(){
+                resolve("Success!")
+            }, 250)
+        })
+
+
+        // calling on the promise object, note the catch function and the finally function!
+        myPromise
+        .then(response => console.log(response))
+        .catch(rejected => console.log("promise was rejected"))
+        .finally(console.log("promise handled"))
+
+        fetch('http://localhost:8080')
+        .then((response) => response.json())
+        .then(myJson => JSON.stringify(myJson))
+        .then(str => document.querySelector("main").innerHTML = str)
+
+
+    </script>
+</head>
+<body>
+
+    <main>
+        this is my index
+    </main>
+    
+</body>
+</html>
