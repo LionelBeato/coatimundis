@@ -140,3 +140,6 @@ Repository for all of the classwork content related to Tech Talent South!
 
 - *compiling* : to convert source code into machine-code or byte code. 
 
+- *middleware* : code that is packaged and used as boilerplate for your application. 
+
+- *dark pattern* : a design pattern that is typically user-agressive or exploitative. 
