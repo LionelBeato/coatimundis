@@ -50,5 +50,10 @@ https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701
 https://springframework.guru/gang-of-four-design-patterns/
 
 
+### Vim resources that teach you how to use vim 
+
+https://vim-adventures.com/
+https://vimgenius.com     
+
 ## Quote of the Day 
 >“The purpose of computing is insight, not numbers.” - Richard Hamming
