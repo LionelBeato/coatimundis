@@ -4,8 +4,7 @@
 ## Agenda
 - Go in depth with web design and graphic design standards and best practices, implementing bootstrap as an example. 
 - Explore software design patterns such as MVC and MVVM. 
-- Create an Angular project using the cli tool.
-
+- Implement MVC in a node project 
 ## Outline
 
 | Time   | Objective                        |
