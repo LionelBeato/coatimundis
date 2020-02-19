@@ -6,6 +6,8 @@ module.exports = class Duck {
         this.name = name
     }
 
+
+    emoji = '🦆'
     wings = 2
     hasBill = true
     hasFeathers = true

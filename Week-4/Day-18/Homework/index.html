@@ -10,9 +10,11 @@
 
         // example code for a promise, note the timeout function which creates an interval of time, emulating async operations 
         const myPromise = new Promise((resolve, reject) => {
-            setTimeout( function(){
+            setInterval( function(){
                 resolve("Success!")
-            }, 250)
+            }, 3000)
+
+            reject("promise ")
         })
 
 
@@ -22,7 +24,7 @@
         .catch(rejected => console.log("promise was rejected"))
         .finally(console.log("promise handled"))
 
-        fetch('http://localhost:8080')
+        fetch('http://localhost:8000')
         .then((response) => response.json())
         .then(myJson => JSON.stringify(myJson))
         .then(str => document.querySelector("main").innerHTML = str)

@@ -1,8 +1,8 @@
-var express = require("express");
-let cors = require("cors")
+const express = require("express");
+const cors = require("cors")
 const Duck = require("./model")
-var app = express();
-var port = 8080;
+const app = express();
+const port = 8000;
 
 let daffy = new Duck("Daffy")
 
