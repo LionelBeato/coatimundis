@@ -41,6 +41,14 @@
 
 ## Links
 
+### Windows Terminal (Preview) - really good terminal solution for Windows, comes highly recommended but still experimental!
+
+https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701
+
+### Gang of Four Design Patterns (list of relevant design patterns for OOP)
+
+https://springframework.guru/gang-of-four-design-patterns/
+
 
 ## Quote of the Day 
 >“The purpose of computing is insight, not numbers.” - Richard Hamming
