@@ -1,4 +1,4 @@
-# February 18, 2019 - Day 17
+# February 19, 2019 - Day 18
 
 
 ## Agenda
@@ -21,6 +21,13 @@
 
 
 ## Lab
+
+### Playing around with grids
+
+1. Create an html file with a css framework linked.
+2. In your file, make a grid with at least 8 columns and three rows.
+3. Have one column take up half the available space available.
+4. Have another column take up a third of the space available.  
 
 ## Homework
 

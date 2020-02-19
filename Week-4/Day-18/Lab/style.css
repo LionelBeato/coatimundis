@@ -1,0 +1,29 @@
+body {
+    margin:100px;
+    padding:100px;
+}
+
+.mygrid{
+    display:grid;
+    grid-template-columns: 500px 500px;
+    grid-gap: 5px;
+}
+
+.el{
+    grid-column:auto;
+    grid-row:auto;
+    flex-wrap: 1;
+    color: white;
+    background-color: blue;
+}
+
+.flex-container{
+    display:flex;
+    flex-flow:row wrap;
+    justify-content: space-around;
+    padding:0;
+    margin:0;
+    list-style:none;
+
+}
+
