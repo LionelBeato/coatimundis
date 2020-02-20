@@ -46,5 +46,9 @@
 
 ## Links
 
+### Material Design for Angular
+
+https://material.angular.io/
+
 ## Quote of the Day 
 >“Just because something doesn’t do what you planned it to do doesn’t mean it’s useless." - Thomas Edison 
