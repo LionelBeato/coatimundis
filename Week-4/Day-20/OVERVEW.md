@@ -30,18 +30,7 @@
 
 ## Links
 
-### Material Design for Angular
 
-https://material.angular.io/
-
-
-### Angular Getting Started Page
-
-https://angular.io/start
-
-### Yarn Package Manager (something to take note of)
-
-https://yarnpkg.com/
 
 ## Quote of the Day 
 >“All of a sudden, we’ve lost a lot of control,’ he said. ‘We can’t turn off our internet; we can’t turn off our smartphones; we can’t turn off our computers. You used to ask a smart person a question. Now, who do you ask? It starts with g-o, and it’s not God…” - Steve Wozniak
