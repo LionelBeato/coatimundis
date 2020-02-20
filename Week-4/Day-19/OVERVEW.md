@@ -37,9 +37,9 @@
 
 1. In your Angular app, I want you to think of your major website components and generate them accordingly. So if you want a navbar you would type in `ng g c navbar` and build that component out with html and css.
 
-2. Hook everything up so that once you have a website's skeleton completed it'll render declaratively and logically on a single page.
+2. Have everything render on a single page so that once you have a website's skeleton completed it'll render declaratively and logically.
 
-3. Make a route that brings you to a mock 404/error page. Make sure the page is completely devoid of any other components!
+3. Make a route that brings you to a mock 404/error page using your router. Make sure the page is completely devoid of any other components!
 
 4. Push everythong to GitHub. 
 
