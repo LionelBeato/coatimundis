@@ -2,9 +2,8 @@
 
 
 ## Agenda
-- Start to cover Angular. Explore why one would use it and how to use it. 
-- Explore the Angular CLI
-- Integrate Material Design  
+- Cover *services* in Angular. 
+- Review *dependency* injection and what it means. 
 ## Outline
 
 | Time   | Objective                        |
