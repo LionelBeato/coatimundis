@@ -50,5 +50,22 @@
 
 https://material.angular.io/
 
+
+### Angular Getting Started Page
+
+https://angular.io/start
+
+### Yarn Package Manager (something to take note of)
+
+https://yarnpkg.com/
+
 ## Quote of the Day 
 >“Just because something doesn’t do what you planned it to do doesn’t mean it’s useless." - Thomas Edison 
+
+## Tips
+
+- Recall the 4 Ss:
+    - Safety
+    - Security
+    - Stability
+    - Standardization
