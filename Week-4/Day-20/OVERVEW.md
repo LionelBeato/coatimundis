@@ -20,8 +20,12 @@
 
 ## Lab
 
+### Observable Practice
 
-
+1. In your Angular project, I want you to create a new service and have that service create an observable from the internet. 
+2. Find json data online that you want to use for your service and point your observable to that data. Think of the data as your backend.
+3. In a seperate component, have your data logged to the console. 
+4. Render your data to the DOM dynamically. 
 
 ## Homework
 
@@ -30,6 +34,9 @@
 ## Links
 
 
+### rxjs definition of an observable
+
+https://rxjs-dev.firebaseapp.com/guide/observable
 
 ## Quote of the Day 
 >“All of a sudden, we’ve lost a lot of control,’ he said. ‘We can’t turn off our internet; we can’t turn off our smartphones; we can’t turn off our computers. You used to ask a smart person a question. Now, who do you ask? It starts with g-o, and it’s not God…” - Steve Wozniak
