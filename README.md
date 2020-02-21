@@ -41,35 +41,35 @@ Repository for all of the classwork content related to Tech Talent South!
 
 ## Week 5 Java Deep Dive (February 24, 2020)
 
-21. Angular Animation and Testing
-22. Java Overview
-23. Java Classes and Interfaces
-24. Java Control Flow
-25. Java Lambda and Streams 
+21. Java Overview
+22. Java Classes and Interfaces
+23. Java Control Flow
+24. Java Lambda and Streams 
+25. Java Linked Lists, Arraylists, Hashmaps
 
 ## Week 6: Intermediate Programming (March 2, 2020)
-26. Java Linked Lists, Arraylists, Hashmaps
-27. Stacks and Queues
-28. Heaps, Binary Trees and Search Trees
-29. Big O Notation
-30. Java Methods
+26. Stacks and Queues
+27. Heaps, Binary Trees and Search Trees
+28. Big O Notation
+29. Java Methods
+30. Java Exception
 
 ## Week 7: Advanced Practices and Databases  (March 9, 2020)
 
 
-31. Java Exception
-32. Design Patterns
-33. Web Services
-34. Packing Code
-35. Intro to Databases and SQL
+31. Design Patterns
+32. Web Services
+33. Packing Code
+34. Intro to Databases and SQL
+35. Fundamentals of Table Manipulation
 
 ## Week 8: Advanced SQL and Java Database Technology    (March 16, 2020)
 
 
-36. Fundamentals of Table Manipulation
-37. Table Relationships
-38. Java Database Connector
-39. Transactions and Triggers / Subselects and Views
+36. Table Relationships
+37. Java Database Connector
+38. Transactions and Triggers / Subselects and Views
+39. TBA
 40. TBA
 
 
