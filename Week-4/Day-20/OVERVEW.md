@@ -29,6 +29,13 @@
 
 ## Homework
 
+### Unit Testing
+
+1. Create a node project and `npm install` a testing library.
+2. Make sure that you update your package.json so that the test scripts points to your testing dependency. 
+3. Create a simple test that checks for equality. 
+4. Push it to GitHub. 
+
 
 
 ## Links
