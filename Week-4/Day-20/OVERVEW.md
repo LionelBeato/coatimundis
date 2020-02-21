@@ -45,6 +45,12 @@
 
 https://rxjs-dev.firebaseapp.com/guide/observable
 
+
+### Mocha and Jest homepages
+
+https://mochajs.org/
+https://jestjs.io/
+
 ## Quote of the Day 
 >“All of a sudden, we’ve lost a lot of control,’ he said. ‘We can’t turn off our internet; we can’t turn off our smartphones; we can’t turn off our computers. You used to ask a smart person a question. Now, who do you ask? It starts with g-o, and it’s not God…” - Steve Wozniak
 
