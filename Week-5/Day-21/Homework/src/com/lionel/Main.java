@@ -23,7 +23,7 @@ public class Main {
         Arrays.stream(numArr)
                 .map(num -> num + 3)
                 .forEach(System.out::println);
-        
+
 
 
 

@@ -51,7 +51,6 @@
 4. Create an if/else block that checks a value in your class instance and has at least two resolutions. 
 5. Push your project to GitHub. 
 
-
 ## Links
 
 ### instanceof keyword explanation
