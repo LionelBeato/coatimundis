@@ -49,6 +49,10 @@
 
 https://www.webucator.com/how-to/how-check-object-type-java.cfm
 
+### Object Class in Java Docs 
+
+https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/lang/Object.html
+
 
 ## Quote of the Day 
 >"I do not fear computers. I fear lack of them." -Isaac Asimov
