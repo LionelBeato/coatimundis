@@ -10,6 +10,7 @@ public class Main {
         boolean gameisPlaying = true;
         String answer;
 
+
         while (gameisPlaying) {
             System.out.println("Give me a number between 1 and 100: ");
             int rand = (int)((Math.random() * (100 - 1) + 1));
