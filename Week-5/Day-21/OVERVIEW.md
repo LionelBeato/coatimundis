@@ -43,6 +43,15 @@
 
 ## Homework
 
+### Java Simple Classes and If/Else
+
+1. In Intellij, create a new project and use the command line template. 
+2. Create a simple class with private fields and setters and getters for those fields. 
+3. In your main, create a new instance of your class. 
+4. Create an if/else block that checks a value in your class instance and has at least two resolutions. 
+5. Push your project to GitHub. 
+
+
 ## Links
 
 ### instanceof keyword explanation
