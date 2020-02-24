@@ -159,7 +159,10 @@ Repository for all of the classwork content related to Tech Talent South!
 
 - *refactor* : to change code for the better. 
 
+- *reference* : a value that represents an indirectly accessed piece of data, or 'datum'. 
+
 - *repository* : in reference to git, a collection of files representing a project, typically composed of source code.
+
 ## S
 
 - *source code* : the human readable, programmed code for an application. 
