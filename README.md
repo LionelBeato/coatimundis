@@ -113,33 +113,73 @@ Repository for all of the classwork content related to Tech Talent South!
 
 # Index 
 
-- *refactor* : to change code for the better. 
+## A
 
-- *code smell* : something that indicates poorly written code.
+- *abstract/abstract class* : in Java, a class implementation that must be overridden if extended.
 
-- *push*, *pushing* : to sync code with a remote repository.
+## B
 
 - *best practice(s)* : an established way of doing things. 
 
-- *primitive* : a data type that is typically a basic building block of a language and denotes a value.
-
-- *design pattern* : a reusable solution or methodology that addresses a specific problem. 
-
-
-- *type casting* : to assign the value of one primitive to another. 
-
-- *source code* : the human readable, programmed code for an application. 
-
-- *repository* : in reference to git, a collection of files representing a project, typically composed of source code.
-
-- *machine code* : a set of instructions that can be easily understood by a CPU. 
-
-- *portability* : in regards to software, the ability to run on many different kinds of computers without augmentation. 
-
 - *byte code* : compact, portable code that can be compiled into machine-code. 
+
+## C
+
+- *class* : a discrete grouping of data that can be instatiated. 
+
+- *code smell* : something that indicates poorly written code.
 
 - *compiling* : to convert source code into machine-code or byte code. 
 
-- *middleware* : code that is packaged and used as boilerplate for your application. 
+## D
+
+- *design pattern* : a reusable solution or methodology that addresses a specific problem. 
 
 - *dark pattern* : a design pattern that is typically user-agressive or exploitative. 
+
+## I
+
+- *interface* : a class that does not have implementation and which other classes can implement.
+
+## M
+
+- *machine code* : a set of instructions that can be easily understood by a CPU. 
+
+- *middleware* : code that is packaged and used as boilerplate for your application. 
+
+## P
+
+- *primitive* : a data type that is typically a basic building block of a language and denotes a value.
+
+- *portability* : in regards to software, the ability to run on many different kinds of computers without augmentation. 
+
+- *push*, *pushing* : to sync code with a remote repository.
+
+## R
+
+- *refactor* : to change code for the better. 
+
+- *repository* : in reference to git, a collection of files representing a project, typically composed of source code.
+## S
+
+- *source code* : the human readable, programmed code for an application. 
+
+## T
+
+- *type casting* : to assign the value of one primitive to another. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
