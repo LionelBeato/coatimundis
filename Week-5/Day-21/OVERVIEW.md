@@ -26,10 +26,20 @@
 1. In your Java app. Declare a value for a noun, an adjective, and a verb. Prompt the user for those values using `scanner`. 
 2. Output those values in a sentence using `System.out.println`. 
 
+### If/Else Challenge
+
+1. Using classes, create two different instances of two different classes (so a dog class and a cat class, for example). Have a method that prints something to your console in those classes.
+
+2. Check to see the instance of your object with a if loop and the `instanceof` keyword. Inside your if your block, call the method belonging to your class. 
+
 
 ## Homework
 
 ## Links
+
+### instanceof keyword explanation
+
+https://www.webucator.com/how-to/how-check-object-type-java.cfm
 
 
 ## Quote of the Day 
