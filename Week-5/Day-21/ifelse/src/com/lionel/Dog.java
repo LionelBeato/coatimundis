@@ -22,5 +22,5 @@ public class Dog extends Animal {
         return super.equals(obj);
     }
 
-    
+
 }

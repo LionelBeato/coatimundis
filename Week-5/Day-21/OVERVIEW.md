@@ -32,6 +32,14 @@
 
 2. Check to see the instance of your object with a if loop and the `instanceof` keyword. Inside your if your block, call the method belonging to your class. 
 
+### Guessing Game
+
+1. Using `Scanner`, ask the user for a number between 1 and 100.
+2. Create a random number variable that is from a range of 1 to 100. 
+3. If the number is exactly the user input, have the program acknowledge this. 
+4. If the number is too low or too high, have the program acknowledge this as well. 
+5. If the number is within 5 digits, have the program output "so close!" or something to that effect. 
+
 
 ## Homework
 
