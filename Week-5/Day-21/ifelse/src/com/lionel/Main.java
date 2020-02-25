@@ -1,4 +1,5 @@
 package com.lionel;
+import java.util.Scanner;
 
 public class Main {
 
@@ -12,6 +13,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        Scanner sc = new Scanner(System.in);
+
         Cat garfield = new Cat();
         Dog brian = new Dog();
         Animal myAnimal = new Animal();
@@ -19,11 +22,5 @@ public class Main {
         animalChecker(myAnimal);
 
 
-
-
-
-
-
-	// write your code here
     }
 }

@@ -33,6 +33,9 @@
 4. In your `Pet` class, create a method that returns the pet's cry (bark, meow, etc).
 5. Create a `Vehicle` class and figure out the implementation. What does a vehicle have? What does it do? 
 
+
+## Homework
+
 ### Array Practice 
 
 1. Create a `Student` class that extends `Person` and describe relevant fields and methods. 
@@ -40,8 +43,8 @@
 3. Construct at least three students and using `.add()`, add them to the list. 
 4. Using `.stream()` and `.map()` and `.forEach`, for each student in your student array, `System.out::println` the element. 
 
-## Homework
-
 ## Links
 
 ## Quote of the Day 
+>The only thing necessary for the triumph of evil is for good men to do
+nothing. - Edmund Burke`
