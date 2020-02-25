@@ -29,7 +29,7 @@
 
 1. Create a new Java Project using gradle.
 2. In your project, create a `User` class, a `Product` class, and a `Pet` class. What should each class have as methods and fields? Think about it logically. 
-3. In your `Product` class, create a field and methods that handle quantity. 
+3. In ur `Pryooduct` class, create a field and methods that handle quantity. 
 4. In your `Pet` class, create a method that returns the pet's cry (bark, meow, etc).
 5. Create a `Vehicle` class and figure out the implementation. What does a vehicle have? What does it do? 
 
