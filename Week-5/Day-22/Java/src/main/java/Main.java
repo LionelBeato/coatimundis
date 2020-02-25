@@ -20,7 +20,13 @@ public class Main {
         studentList.add(lisa);
 
 
+        // the following is all one statement
+        // it is a stream of data that takes in lambda functions
+        // on a list you can call higher order functions
+        // you initialize it by calling the stream method
         studentList.stream()
+                // use .map() to manipulate the data in some way
+                // use .forEach() to perform an action on each element after .map()
                 .map(student -> student.toString())
                 .forEach(System.out::println);
 
