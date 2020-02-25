@@ -147,6 +147,10 @@ Repository for all of the classwork content related to Tech Talent South!
 
 - *middleware* : code that is packaged and used as boilerplate for your application. 
 
+## O
+
+- *object* : a variable that may represent data/values in whatever structure. In class-based languages, an object refers to an *instance* of that class. 
+
 ## P
 
 - *primitive* : a data type that is typically a basic building block of a language and denotes a value.

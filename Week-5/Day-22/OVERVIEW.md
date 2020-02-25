@@ -43,6 +43,14 @@
 3. Construct at least three students and using `.add()`, add them to the list. 
 4. Using `.stream()` and `.map()` and `.forEach`, for each student in your student array, `System.out::println` the element. 
 
+### Spring Boot App 
+
+1. Make a Spring Boot application! We will be working on this for the rest of the week!
+2. Create a controller class and map `/hello` to a function that returns a string.
+3. Under `resources/static/` create an index.html, style.css, script.js.
+4. Fill your index.html with the basic building blocks of your website and link it to your css and js. 
+5. Push what you have to GitHub!
+
 ## Links
 
 ## Quote of the Day 
