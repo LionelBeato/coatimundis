@@ -76,15 +76,15 @@ spring.thymeleaf.cache: false
 
 ## Quote of the Day 
 >_________________________________________
-/ There is an innocence in admiration; it \
-| is found in those to whom it has not    |
-| yet occurred that they, too, might be   |
-| admired some day.                       |
-|                                         |
-\ -- Friedrich Nietzsche                  /
- -----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+>/ There is an innocence in admiration; it \
+>| is found in those to whom it has not    |
+>| yet occurred that they, too, might be   |
+>| admired some day.                       |
+>|                                         |
+>\ -- Friedrich Nietzsche                  /
+> -----------------------------------------
+>        \   ^__^
+>         \  (oo)\_______
+>            (__)\       )\/\
+>                ||----w |
+>                ||     ||
