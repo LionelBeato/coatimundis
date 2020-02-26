@@ -75,7 +75,7 @@ spring.thymeleaf.cache: false
 
 
 ## Quote of the Day 
-````bash
+````
  _________________________________________
 / There is an innocence in admiration; it \
 | is found in those to whom it has not    |
