@@ -40,6 +40,10 @@
 
 ### Time for Thymeleaf
 
+1. In your Spring project, create a model and a repo(DAO -- Data Access Object) for that model. 
+2. In your controller, have a get method that will return all of the items in your repository. 
+3. Implement a runner that will save items into your repository.
+
 
 ## Links
 

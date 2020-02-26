@@ -58,5 +58,4 @@
 https://www.baeldung.com/spring-bean
 
 ## Quote of the Day 
->The only thing necessary for the triumph of evil is for good men to do
-nothing. - Edmund Burke`
+>The only thing necessary for the triumph of evil is for good men to do nothing. - Edmund Burke`
