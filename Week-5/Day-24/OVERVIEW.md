@@ -3,6 +3,10 @@
 
 ## Agenda
 
+- Explore Java *control flow* and the basic conditionals. 
+- Explore *thymeleaf*, why we would use it, and how to implement it. 
+- Enable *H2* database and explore database tooling options such as *HAL Browser*. 
+
 
 
 ## Outline
@@ -13,11 +17,10 @@
 | 8:10a  | Slides & Presentation            |
 | 9:30a  | Coffee Break                     |
 | 9:40a  | Slides & Presentation            |
-| 9:50a  | Assignment                       |
+| 10:00a | Assignment                       |
 | 12:00p | Lunch Break                      |
 | 1:00p  | Lab Hours                        |
 | 3:30p  | Class Dismissed & Office Hours   |
-
 
 ## Lab
 
@@ -32,7 +35,7 @@
 
 ### Time for Thymeleaf (for real, this time!)
 
-1. Refactor your code so that thymeleaf is correctly configured. In your Controller class have your get method mirror the follow:
+1. Refactor your code so that thymeleaf is correctly configured. In your Controller class have your get method mirror the following:
 
 ```Java
     @RequestMapping(method=RequestMethod.GET)
@@ -43,7 +46,7 @@
     }
 ```
 
-2. Move your html to your template folder and add this following lines:
+2. Move your html to your template folder under `resources` and add the following lines:
 
 ```HTML
 <!-- Change your html tag to the following: -->
