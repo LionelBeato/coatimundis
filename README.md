@@ -113,7 +113,9 @@ Repository for all of the classwork content related to Tech Talent South!
 
 ## A
 
-- *abstract/abstract class* : in Java, a class implementation that must be overridden if extended.
+- *abstract/abstract class* : in Java, a class implementation that must be overridden if extended. Abstract code has no direct implementation when declared. 
+
+- *absraction* : the concept that code implementation should be hidden or obfuscated. 
 
 ## B
 
@@ -135,7 +137,13 @@ Repository for all of the classwork content related to Tech Talent South!
 
 - *dark pattern* : a design pattern that is typically user-agressive or exploitative. 
 
+## E
+
+- *encapsulation* : the concept that code can be wrapped or contained by other code for safety and security purposes. 
+
 ## I
+
+- *inheritance* : the concept that objects can have properties that stem from parent objects; "the child can do everything the parent can, plus more." 
 
 - *interface* : a class that does not have implementation and which other classes can implement.
 
@@ -151,9 +159,11 @@ Repository for all of the classwork content related to Tech Talent South!
 
 ## P
 
-- *primitive* : a data type that is typically a basic building block of a language and denotes a value.
+- *portability* : in regards to software, the ability to run on many different kinds of computers without augmentation.
 
-- *portability* : in regards to software, the ability to run on many different kinds of computers without augmentation. 
+- *polymorphism* : the concept that objects can behave like other objects, or more succinctly: "“same name, different logic”. 
+
+- *primitive* : a data type that is typically a basic building block of a language and denotes a value.
 
 - *push*, *pushing* : to sync code with a remote repository.
 
@@ -173,6 +183,13 @@ Repository for all of the classwork content related to Tech Talent South!
 
 - *type casting* : to assign the value of one primitive to another. 
 
+## 4 
+
+- *The 4 Pillars of OOP* : The major concepts and design patterns that are the backbone for object-oriented programming. The 4 Pillars are as followed:
+    1. *Abstraction*
+    2. *Encapsulation*
+    3. *Inheritance*
+    4. *Polymorphism*
 
 
 
