@@ -27,7 +27,7 @@
 ### Control Flow Practice
 
 1. In a Java Project, create a block of code that will only work if a variable is set to `true`.
-2. Create an Array (or List) and loop through that array using an enchanced for loop. 
+2. Create an Array (or List) and loop through that array using an enhanced for loop. 
 3. Have a block of code that will execute inside of a do-while loop.
 4. Write a switch statement with a default case. 
 
@@ -71,9 +71,11 @@ spring.thymeleaf.cache: false
 ```
 
 
-
-
 ## Links
+
+### Conditionals Are a Code Smell
+
+https://levelup.gitconnected.com/conditional-statements-are-a-code-smell-here-is-your-relief-38e50c023708
 
 
 
