@@ -2,12 +2,28 @@ package Lesson;
 
 public class Lesson {
 
+    static void myMethod(int x){
+        if (x == 3){
+            System.out.println("This is inside a conditional!");
+            // you can put return statements anywhere
+            // they will typically be at the end of a method body
+            // but they can appear within code blocks inside of a method
+            // conditionals can resolve to a value that you may want to return
+            return;
+
+        }
+
+        System.out.println("This is inside my method");
+    }
+
     // there are three major ways to hanle control flow
     // they are decision statements, looping statements, and branching statements
 
     public static void main(String[] args) {
 
-        // decision statements
+        /*
+            decision statements
+         */
 
         String x = "foo";
         String y = "foo";
@@ -50,7 +66,9 @@ public class Lesson {
 //
 //        }
 
-        // *** Looping Statements ***
+        /*
+            Looping Statements
+        */
 
         // for loop
         // for loops have three arguments, an iterator, an end check, and the iteration value
@@ -94,7 +112,10 @@ public class Lesson {
             System.out.println("This is inside a do while loop!");
         } while (false);
 
-        // branching statements
+        /*
+             branching statements
+         */
+
         // branching statements control when blocks of code end and when they operate
 
         for(int i = 0; i <= 100; i++){
@@ -116,9 +137,10 @@ public class Lesson {
             System.out.println("This is for our branching example " + i);
         }
 
-        // 
+        // return statement
+        // a return statement dictates what a method is giving--or returning--as a value
 
-
+        myMethod(3);
 
 
 
