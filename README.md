@@ -32,28 +32,27 @@ Repository for all of the classwork content related to Tech Talent South!
 ## Week 4  Angular Deep Dive  (February 17, 2020)
 
 16. [NO CLASS President’s Day](https://github.com/LionelBeato/classwork/blob/master/Week-4/Day-16/OVERVIEW.md) 
-17. JavaScript Libraries & Intro to TypeScript 
-18. Model, View, Controller & Design Patterns
-19. Angular Basics
-20. Angular Services & Dependency Injection
-
+17. [JavaScript Libraries & Intro to TypeScript](https://github.com/LionelBeato/classwork/blob/master/Week-4/Day-17/OVERVIEW.md) 
+18. [Model, View, Controller & Design Patterns](https://github.com/LionelBeato/classwork/blob/master/Week-4/Day-18/OVERVIEW.md) 
+19. [Angular Basics](https://github.com/LionelBeato/classwork/blob/master/Week-4/Day-19/OVERVIEW.md) 
+20. [Angular Services & Dependency Injection](https://github.com/LionelBeato/classwork/blob/master/Week-4/Day-20/OVERVIEW.md) 
 
 
 ## Week 5 Java Deep Dive (February 24, 2020)
 
-21. Java Overview
-22. Java Types and Variables / Intro to Spring Boot
-23. Java Classes and Interfaces / Spring Boot MVC 
-24. Java Control Flow / Spring Service and Database
-25. Java Lambda and Streams / Spring Packaging and Launching 
+21. [Java Overview](https://github.com/LionelBeato/classwork/blob/master/Week-5/Day-21/OVERVIEW.md) 
+22. [Java Types and Variables / Intro to Spring Boot](https://github.com/LionelBeato/classwork/blob/master/Week-5/Day-22/OVERVIEW.md) 
+23. [Java Classes and Interfaces / Spring Boot MVC ](https://github.com/LionelBeato/classwork/blob/master/Week-5/Day-23/OVERVIEW.md) 
+24. [Java Control Flow / Spring Database and Thymeleaf](https://github.com/LionelBeato/classwork/blob/master/Week-5/Day-24/OVERVIEW.md) 
+25. [Java Lambda and Streams / Spring Services, Packaging and Launching ](https://github.com/LionelBeato/classwork/blob/master/Week-5/Day-25/OVERVIEW.md) 
 
 ## Week 6: Intermediate Programming (March 2, 2020)
 
-26. Java Linked Lists, Arraylists, Hashmaps / Spring Project
-27. Stacks and Queues / Spring Project
-28. Heaps, Binary Trees and Search Trees / Spring Project
-29. Big O Notation / Spring Project
-30. Java Methods / Spring Project 
+26. [Java Linked Lists, Arraylists, Hashmaps / Spring Project](https://github.com/LionelBeato/classwork/blob/master/Week-6/Day-26/OVERVIEW.md) 
+27. [Stacks and Queues / Spring Project](https://github.com/LionelBeato/classwork/blob/master/Week-6/Day-27/OVERVIEW.md) 
+28. [Heaps, Binary Trees and Search Trees / Spring Project](https://github.com/LionelBeato/classwork/blob/master/Week-6/Day-28/OVERVIEW.md) 
+29. [Big O Notation / Spring Project](https://github.com/LionelBeato/classwork/blob/master/Week-6/Day-29/OVERVIEW.md) 
+30. [Java Methods / Spring Project](https://github.com/LionelBeato/classwork/blob/master/Week-6/Day-30/OVERVIEW.md) 
 
 ## Week 7: Advanced Practices and Databases  (March 9, 2020)
 
@@ -187,7 +186,7 @@ Repository for all of the classwork content related to Tech Talent South!
 
 - *type casting* : to assign the value of one primitive to another. 
 
-## 4 
+## #4 
 
 - *The 4 Pillars of OOP* : The major concepts and design patterns that are the backbone for object-oriented programming. The 4 Pillars are as followed:
     1. *Abstraction*

@@ -1,4 +1,4 @@
-# February 27, 2019 - Day 24
+# February 28, 2019 - Day 25
 
 
 ## Agenda
@@ -31,6 +31,27 @@
 
 ## Links
 
+### Clip-Path Generator for clipping images with CSS!
+
+https://bennettfeely.com/clippy/
+
 
 
 ## Quote of the Day 
+```
+ _________________________________________
+/ There is a certain frame of mind to    \
+| which a cemetery is, if not an         |
+| antidote, at least an alleviation. If  |
+| you are in a fit of the blues, go      |
+| nowhere else.                          |
+|                                        |
+\ -- Robert Louis Stevenson: Immortelles /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+```

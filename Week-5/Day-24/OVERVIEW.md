@@ -7,8 +7,6 @@
 - Explore *thymeleaf*, why we would use it, and how to implement it. 
 - Enable *H2* database and explore database tooling options such as *HAL Browser*. 
 
-
-
 ## Outline
 
 | Time   | Objective                        |
@@ -100,7 +98,6 @@ spring.h2.console.enabled=true
 ### Conditionals Are a Code Smell
 
 https://levelup.gitconnected.com/conditional-statements-are-a-code-smell-here-is-your-relief-38e50c023708
-
 
 
 ## Quote of the Day 
