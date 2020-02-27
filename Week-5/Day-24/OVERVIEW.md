@@ -70,6 +70,13 @@ spring.thymeleaf.cache: false
 
 ```
 
+### Refactor Your Spring App
+
+1. Continue refactoring your spring app so that you have packages and seperation of concerns. 
+2. Make sure your html is inside your template folder! 
+3. Continue refining your front end so that it's visual cohesive and pleasing (remember accessibility!). 
+4. Push everything to GitHub by the end of the day.  
+
 
 ## Links
 
