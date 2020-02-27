@@ -141,6 +141,10 @@ Repository for all of the classwork content related to Tech Talent South!
 
 - *encapsulation* : the concept that code can be wrapped or contained by other code for safety and security purposes. 
 
+## F
+
+- *flavor* : a specific version of a technology stack that has unique implementation. For instance, mySQL is a *flavor* of SQL.
+
 ## I
 
 - *inheritance* : the concept that objects can have properties that stem from parent objects; "the child can do everything the parent can, plus more." 

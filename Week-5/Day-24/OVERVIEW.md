@@ -70,6 +70,23 @@ spring.thymeleaf.cache: false
 
 ```
 
+### Enable H2! 
+
+1. In your application.properties, make sure you have the following code:
+```.properties
+spring.datasource.url=jdbc:h2:mem:testdb
+spring.datasource.driverClassName=org.h2.Driver
+spring.datasource.username=sa
+spring.datasource.password=test
+spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
+
+spring.h2.console.enabled=true
+```
+2. Note the username and password settings. 
+3. Launch your spring boot app and go to `localhost:8080/h2-console`. For the url insert `jdbc:h2:mem:testdb` and for the the password, insert `test`. 
+4. You should now be in a SQL style application. In here you can write legal SQL queries. Try the query `select * from <INSERT TABLE NAME HERE>`to see what it generates! 
+5. Note that we're using a test database that's stored in memory, ergo `h2:mem:testdb` where `testdb` is the database name. Spring supports a wide assortment of SQL *flavors* and database technologies, including cloud stacks and mongodb. 
+
 ### Refactor Your Spring App
 
 1. Continue refactoring your spring app so that you have packages and seperation of concerns. 
