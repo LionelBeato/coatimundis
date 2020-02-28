@@ -41,6 +41,7 @@
 1. In your project, create an ArrayList that takes Integers as elements. Have at least 10 elements. 
 2. Using higher order functions and streams, I want you to manipulate every element in the array so that for each element you get back the element plus 5. 
 3. Within your stream, print the elements of the stream to your console.
+4. Using either another stream or opening the original one again, reduce the elements of the stream in some fashion. 
 
 
 ## Homework
