@@ -55,6 +55,12 @@
 
 https://bennettfeely.com/clippy/
 
+https://en.wikipedia.org/wiki/Inter-process_communication
+
+https://docs.microsoft.com/en-us/windows/win32/procthread/processes-and-threads
+
+https://web.mit.edu/6.005/www/fa15/classes/19-concurrency/
+
 
 
 ## Quote of the Day 
