@@ -3,7 +3,14 @@
 
 ## Agenda
 
+- Finally, functional programming in Java!
+- Explore *lambdas* and *streams* and how we can utilize them in our code. 
+- Dive into the history of *lambda calculus*. 
 
+- Find out what *service* is and what it represents. 
+- Review seperation of concerns. 
+- Explore hosting options for our Java app.
+- Package our Java app into a Jar. 
 
 
 ## Outline
@@ -21,13 +28,25 @@
 
 ## Lab
 
+### Lambda Practice
+
+1. In your project, I want you to create an functional interface. Remember that functional interfaces can only have one method. 
+
+2. Create a new instance of your functional interface and write it out as a lambda expression. 
+
+3. Use that lambda expression to print something to the console. 
+
+### Streams Practice
+
+1. In your project, create an ArrayList that takes Integers as elements. Have at least 10 elements. 
+2. Using higher order functions and streams, I want you to manipulate every element in the array so that for each element you get back the element plus 5. 
+3. Within your stream, print the elements of the stream to your console.
 
 
 ## Homework
 
-
-
-
+### Package our App!
+### Launch our App!
 
 ## Links
 
