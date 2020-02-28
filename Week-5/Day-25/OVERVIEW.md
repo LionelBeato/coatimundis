@@ -43,11 +43,40 @@
 3. Within your stream, print the elements of the stream to your console.
 4. Using either another stream or opening the original one again, reduce the elements of the stream in some fashion. 
 
-
 ## Homework
 
+### Create your Service
+
+1. Create a package named `Service`. Under the `Service` package, create the service classes corresponding to your model. 
+2. Refactor your controllers so that all business logic is removed and placed in your services. Place an `Autowired` service to the corresponding controllers. 
+3. Create new methods for your mapping that return the appropiate methods in your services. The end result will look something like this:
+
+```Java
+    @Autowired
+    AnimalService animalService;
+    // creating our get method for our animals repo
+    // this aligns 1:1 with the HTTP GET method
+    @RequestMapping( value = "/animals", method= RequestMethod.GET)
+    ModelAndView getAnimals(){
+        return animalService.getAnimals();
+    }
+
+```
+
+### Set-up for Production!
+
+1. in `application.properties`, type in the following value: `server.port=${PORT:8080}`. This will allow heroku to use a dynamic port in order to serve your app.
+
 ### Package our App!
+
+1. Using gradle, write `gradlew wrapper` in the root of your app.
+2. Write `gradlew build` afterwards. There should now be a .jar file located under `/build/libs`
+
 ### Launch our App!
+
+3. Using heroku, go to the `libs` directory where your .jar is located and write `heroku create --no-remote`. There should be a return name--save this for the next step!
+4. Next we'll deploy our app! Type in `heroku deploy:jar <app>.jar --app <app-name>` and plug in the .jar name and your heroku app's name. 
+
 
 ## Links
 
