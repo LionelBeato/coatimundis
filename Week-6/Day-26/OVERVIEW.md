@@ -39,6 +39,36 @@
 2. Set up your front end using thymeleaf if you'd like. 
 3. Remember to use a Service for your Controller. 
 
+### Achieve full CRUD
+
+1. Implement the correct methods in your service and controller in order to get full CRUD. 
+2. Remember that you can use `@getmapping`. `@postmapping`, etc instead of using `@requestmapping`. 
+3. Once you have your CRUD tested with Postman or the like, make sure you have the following in your application.properties: 
+
+```.properties
+spring.datasource.url=jdbc:h2:~/test
+spring.datasource.platform=h2
+spring.datasource.driverClassName=org.h2.Driver
+spring.datasource.username=sa
+spring.datasource.password=
+spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
+
+spring.h2.console.enabled=true
+
+# This is for thymeleaf
+spring.thymeleaf.template-loader-path: classpath:/templates
+spring.thymeleaf.suffix: .html
+spring.thymeleaf.cache: false
+
+
+# Static content cache handling
+spring.resources.chain.strategy.content.enabled=true
+spring.resources.chain.strategy.content.paths=/**
+
+server.port=${PORT:8080}
+```
+4. Push it all to GitHub and you're done for today! 
+
 
 ## Links
 
