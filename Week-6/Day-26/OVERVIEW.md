@@ -47,6 +47,11 @@
 https://stackoverflow.com/questions/21964356/linkedlist-does-not-provide-index-based-access-so-why-does-it-have-getindex-m
 
 
+### What does String[] args mean?
+
+https://stackoverflow.com/questions/890966/what-is-string-args-parameter-in-main-method-java
+
+
 ## Quote of the Day 
 ```
  ________________________________________
