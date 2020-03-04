@@ -23,7 +23,25 @@
 
 ## Lab
 
+### Implement a Binary Tree
+
+1. In a Java Project, create two classes: a BinaryTree class an a Node class. 
+2. In your node class, add the appropiate variables and a constructor. 
+3. In your BinaryTree class write out a method to add a node recursively and another to implement that method. 
+4. Have a main where you can construct your BinaryTree, but sure to add elements to your tree. 
+5. Override tostring in both your classes and see what it looks like when you print out your tree. 
+6. Implement a search method for your binary tree. 
+
+
 ## Homework
+
+### Refining our Spring Boot Application 
+
+1. Have your frontends set up for full CRUD implementation. 
+2. In your javascript, write a method for deleting an item.
+3. Write a method for updating an item.
+4. Wrte a method for adding an item. 
+
 
 ## Links
 
