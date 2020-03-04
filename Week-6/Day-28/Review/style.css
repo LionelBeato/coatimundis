@@ -1,0 +1,36 @@
+/* This is how you write a comment in CSS */
+/* CSS stands for Cascading Style Sheet */
+/* In here we can declare "classes" and "ids" */
+/* Classes can be shared among elements, ids are unique to just one */
+
+/* Here is how you would declare a class, note the dot notation */
+/* The class is what we refer to as a selector */
+.myClass{
+    /* Within our selectors we have declarations */
+    /* declarations contain a property and a value for that property */
+    color:red; 
+    /* One selector can have many declarations */
+    font-size: 3rem;
+}
+/* Below is how you'd call an Id, note the pound notation */
+#myId{
+
+}
+
+/* You can also target tags themselves */
+div{
+
+}
+
+/* Additionally, you can target with specification such as all p tags within divs */
+div > p {
+
+}
+
+/* You can also select multiple selectors using commas  */
+/* Note that it's bad practice to leave selections blank */
+/* If you have blank selections, you might want to delete it */
+
+div, p{
+
+}
