@@ -39,15 +39,11 @@
 
 ## Homework
 
-### Java Testing 
-
 ### Refine your Spring Apps
 
 1. Add a frontend to your spring app using thymeleaf or whatever you feel like utilizing. 
 2. In your frontend, have it designed so that you can easily add, remove, and update items in your database. 
 3. Implement the HTTP methods corresponding with our CRUD methods. 
-
-
 
 ## Links
 
