@@ -144,6 +144,49 @@ const anonFunc = () => {
     return "this is an anonymous function"
 }
 
+// this function is immediately invoked and is considered purely anonymous
+// it's evaluated as soon as the javascript interpreter sees it
+console.log(() => {
+    "This is immediately invoked and purely anonymous, note how it prints to the console!"
+})
+
 console.log(anonFunc())
 
 // tuple 
+
+// tuples aren't supported in vanilla javascript, but are supported in typescript
+// check the mod.ts for more info! 
+
+// promises
+
+// a promise is an object that represents the eventual completion of an async operation
+// essentially it represents a value that will be return in the future
+
+// a promise can be in three states 
+// pending, which is the initial state
+// fulfilled, meaning that the promise completed successfully
+// rejected, meaning that the promise failed
+
+let myPromise = new Promise((resolve, reject) => {
+
+    setTimeout( function() {
+        resolve("Sucess! This promised resolved.")
+    }, 5000)
+})
+
+// promises are sometimes referred to as "thenables"
+// this means you can call the .then() higher order function
+myPromise
+        .then(response => console.log(response))
+       // .catch() will catch any errors including rejections
+       // .finally() wll run any code after everything else has been evaluated
+
+
+// there are the async and await keywords that are currently being encouraged
+async function f(){
+        return 1
+}
+
+// async functions return promises so they therefore are thenables 
+// this captures the return value and then console.log()s that value
+f().then(result => console.log(result))
