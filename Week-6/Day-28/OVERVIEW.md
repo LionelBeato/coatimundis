@@ -27,6 +27,14 @@
 
 ## Links
 
+### Baeldung Binary Tree implementation
+
+https://www.baeldung.com/java-binary-tree
+
+### Baeldung Binary Heap implementation
+
+https://www.baeldung.com/java-heap-sort
+
 
 
 ## Quote of the Day 

@@ -64,8 +64,6 @@ public class BinaryTree {
     public static void main(String[] args) {
         BinaryTree bt = createBinaryTree();
         System.out.println(bt.containsNode( 19));
-
-        List<Integer> integerList = new ArrayList<>();
     }
 
 
