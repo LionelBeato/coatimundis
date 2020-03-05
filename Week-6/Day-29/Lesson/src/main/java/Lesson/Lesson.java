@@ -116,7 +116,42 @@ public class Lesson {
         // Big O typically ignores constants can matter
         // For example, if your constant describes an operation that takes 5 hours
         // that might be useful information
-        
+
+        /* Sorts */
+
+        // there are many different sorting algorithms that can be described with
+        // Big O notation
+
+        // Quick Sort
+        // this is your divide and conquer algorithm, which will recursively divide a collection
+        // on average it has O(n log n)
+
+        // Merge Sort
+        // this is sorting used when the data structure doesn't support random access
+        // every time you merge sort, you break the collection atomically
+        // you then merge back the elements and sort them accordingly
+        // on average it has 0(n log n)
+
+        int[] intArray = {1, 2, 3, 4, 5};
+
+
+        System.out.println(intArray);
+
+
+        // Bubble Sort
+        // this is a simple and slow algorithm that repeatedly steps through the colection
+        // compairs each of adjacent elements and swaps them if they're not sorted
+
+        // Selective Sort
+        // this is a simple and slow algorithm that repeatedly selects the lowest
+        // or highest element from the unsorted section and moves it to the end
+        // of the sorted section
+
+
+        // Insertion Sort
+        // this is a simple and slow algorithm that repeatedly takes the next element
+        // from the unsorted ssection and inserts it into the sorted section at the correct position
+
 
     }
 

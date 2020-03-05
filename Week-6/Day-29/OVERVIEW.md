@@ -21,6 +21,21 @@
 
 ## Lab
 
+### Big O Assigment
+
+Consider the following algorithms for determining whether anyone in the room has the same birthday as you. 
+
+*algorithm 1* : You say your birthday, and ask whether anyone in the room has the same birthday. If they do, they yes. 
+
+You can describe this as constant or *0(1)*. 
+
+*algorithm 2* : you tell the first person your birthday and ask them if its the same; if they say no, you tell the second person and so on, etc... 
+
+You can describe this as linear or *0(n)*.
+
+*algorithm 3* : you only ask the first person; then the first person will ask the second person the same questions, and if the answer is no, the second person will ask the third and so on, etc... 
+
+You can describe this a quadratic or *O(n^2)*.
 
 ## Homework
 
@@ -34,6 +49,16 @@ https://www.youtube.com/watch?v=g2o22C3CRfU
 ### HackerRank explanation of Big O
 
 https://www.youtube.com/watch?v=v4cd1O4zkGw&t=3s
+
+
+### Overview of Algorithms 
+
+https://medium.com/@oshiryaeva/overview-of-fast-sorting-algorithms-quicksort-merge-sort-heap-sort-and-radix-sort-part-1-e96d0c8209f7
+
+
+# Visualization of Sorting
+
+https://visualgo.net/bn/sorting
 
 ## Quote of the Day 
 ```
