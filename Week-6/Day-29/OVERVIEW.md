@@ -27,6 +27,14 @@
 
 ## Links
 
+### Big O in 100 Seconds
+
+https://www.youtube.com/watch?v=g2o22C3CRfU
+
+### HackerRank explanation of Big O
+
+https://www.youtube.com/watch?v=v4cd1O4zkGw&t=3s
+
 ## Quote of the Day 
 ```
  _________________________________________

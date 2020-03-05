@@ -108,6 +108,16 @@ public class Lesson {
 
         // when we have more than one unique operation we can ascribe it another variable
         // So an operation can have a Big O of O(a+b)
+
+        // though we've been mostly talking about time complexity
+        // Big O can describe space complexity as well
+        // Big O can take into account the memory cost of an algorithm
+
+        // Big O typically ignores constants can matter
+        // For example, if your constant describes an operation that takes 5 hours
+        // that might be useful information
+        
+
     }
 
 
