@@ -39,6 +39,11 @@ You can describe this a quadratic or *O(n^2)*.
 
 ## Homework
 
+### Continue Working on Spring App
+
+1. Integrate the update method for the donuts api.
+2. Have everything styled and looking nice! 
+
 
 ## Links
 
