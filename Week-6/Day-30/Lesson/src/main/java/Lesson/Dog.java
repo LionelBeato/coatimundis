@@ -4,6 +4,7 @@ public class Dog {
     private String name;
     private int age;
     // since this variable is public, you don't need getters and setters to access it
+    // this is a class variables
     public static int amountOfDogs = 0;
 
     public String getName() {
