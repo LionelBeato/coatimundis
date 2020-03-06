@@ -53,7 +53,12 @@ public class Review {
         ArrayList<Integer> arrayList = new ArrayList<>();
         // Note that ArrayLists can be declared with the interface "List"
         List<Integer> otherList = new ArrayList<>();
-        
+
+        Dog dog = new Dog(4, "Purple");
+        Dog newDog = new Dog(4, "Brown");
+
+        System.out.println(newDog);
+
     }
 
 

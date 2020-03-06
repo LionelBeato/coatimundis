@@ -36,18 +36,16 @@
 
 ## Quote of the Day 
 ```
- ___________________________________
-/ Trying to define yourself is like \
-| trying to bite your own teeth.    |
-|                                   |
-\ -- Alan Watts                     /
- -----------------------------------
+ __________________________________
+/ "Inquiry is fatal to certainty." \
+|                                  |
+\ -- Will Durant                   /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
 
 
 ```
