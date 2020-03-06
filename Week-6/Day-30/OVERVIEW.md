@@ -3,7 +3,7 @@
 
 ## Agenda
 
-- Have our midterm exam and review the answers
+<!-- - Have our midterm exam and review the answers -->
 - Review Java methods and their implementations 
 
 
@@ -22,17 +22,20 @@
 
 ## Lab
 
-### Midterm Exam
+<!-- ### Midterm Exam
 
 - Using the link provided to you in your email, complete the google form exam.
 - The exam will be split into three sections covering HTML, CSS, and JavaScript. 
 - Each section will have 10 questions. 
 - You may use your editor to troubleshoot and test code, but you may not look online to reference answers. 
 - You may use your notes.
-- We will review the exam together afterwards. 
+- We will review the exam together afterwards.  -->
 
-### Java Methods
+### Fibonacci Sequence
 
+1. In your Project, create a method that prints out the Fibonacci numbers. 
+2. Note that you would need to use recursion in order to accomplish this. 
+3. Each number in the sequence is the sum of the two numbers that precede it. So the sequence goes: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 and so on...
 
 ## Homework
 
