@@ -37,6 +37,8 @@
 
 2. Afterwards, create methods for handling deposit, withdraw, etc . 
 
+3. Then augment your method to throw an exception if the condition is met. 
+
 ## Homework
 
 ## Links
