@@ -13,11 +13,11 @@ public class Lesson {
     // in your code you an explicit state that a method will throw an exception
     public static void thisFails() throws Exception {
         System.out.println("Will this code be reached?");
-    };
+    }
 
 
     // you can have a method throw more than one exception if you wanted to
-    public static void main(String[] args) throws Exception, IOException, InstantiationException {
+    public static void main(String[] args) throws Exception {
 
 
         // this is your typical try and catch block in Java

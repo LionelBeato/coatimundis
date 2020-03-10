@@ -43,7 +43,7 @@
 
 ### Create a Front-End!
 
-1. Create a frontend using react that will dynamically render data from a springboot backend.
+1. Create a frontend using react that will dynamically render data from a springboot backend--I will be using GraphQL for this project and highly recommend that you do as well. 
 2. Set up your project's styling and have all the essential components mapped out for the week.  
 
 ## Links
@@ -51,6 +51,10 @@
 (Oracle Java Exceptions Tutorial Portal)[https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html]
 
 (Assert an Exception using JUnit)[https://www.baeldung.com/junit-assert-exception]
+
+(GraphQL Documentary)[https://www.youtube.com/watch?v=783ccP__No8]
+
+[![GraphQL Documentary](http://img.youtube.com/vi/783ccP__No8/0.jpg)](http://www.youtube.com/watch?v=783ccP__No8)
 
 ## Quote of the Day 
 ```
