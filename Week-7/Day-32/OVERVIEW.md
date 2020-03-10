@@ -41,7 +41,16 @@
 
 ## Homework
 
+### Create a Front-End!
+
+1. Create a frontend using react that will dynamically render data from a springboot backend.
+2. Set up your project's styling and have all the essential components mapped out for the week.  
+
 ## Links
+
+(Oracle Java Exceptions Tutorial Portal)[https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html]
+
+(Assert an Exception using JUnit)[https://www.baeldung.com/junit-assert-exception]
 
 ## Quote of the Day 
 ```
