@@ -48,11 +48,10 @@
 
 ## Links
 
-(Oracle Java Exceptions Tutorial Portal)[https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html]
+[Oracle Java Exceptions Tutorial Portal](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html)
 
-(Assert an Exception using JUnit)[https://www.baeldung.com/junit-assert-exception]
+[Assert an Exception using JUnit](https://www.baeldung.com/junit-assert-exception)
 
-(GraphQL Documentary)[https://www.youtube.com/watch?v=783ccP__No8]
 
 [![GraphQL Documentary](http://img.youtube.com/vi/783ccP__No8/0.jpg)](http://www.youtube.com/watch?v=783ccP__No8)
 
