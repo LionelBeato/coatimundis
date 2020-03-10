@@ -4,6 +4,7 @@
 ## Agenda
 
 - Have our midterm exam and review the answers
+- Review Java Design Patterns 
 
 
 ## Outline
@@ -29,6 +30,12 @@
 - You may use your editor to troubleshoot and test code, but you may not look online to reference answers. 
 - You may use your notes.
 - We will review the exam together afterwards. 
+
+### Java Exceptions
+
+1. Create a program that works like a bank account. First you'll create your own exception that will be thrown when there's insufficient funds. 
+
+2. Afterwards, create methods for handling deposit, withdraw, etc . 
 
 ## Homework
 
