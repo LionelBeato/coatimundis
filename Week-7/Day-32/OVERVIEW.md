@@ -4,7 +4,7 @@
 ## Agenda
 
 - Have our midterm exam and review the answers
-- Review Java Design Patterns 
+- Review Java Exceptions and what they're used for 
 
 
 ## Outline
