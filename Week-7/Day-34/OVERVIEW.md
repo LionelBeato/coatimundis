@@ -1,10 +1,10 @@
-# March 11, 2019 - Day 33
+# March 12, 2019 - Day 34
 
 
 ## Agenda
 
-- Review Java and OOP design patterns. 
-- Set up our Project's backends. 
+- Find out what Web Services are.
+- Dive deep into SOAP, REST, XML, and GraphQL. 
 
 
 ## Outline
@@ -22,29 +22,15 @@
 
 ## Lab
 
-### Design Pattern Practice
+### Simple GraphQL backend
 
-1. Review the slides and lab and look at all the examples. Make sure you understand the implementation of these patterns. 
-2. If you can, try to create a singleton of your choice, a factory of your choice, and implement the decorator pattern.
 
 
 ## Homework
 
-### Keep Working on your App
-
-1. Keep Working on your frontend and setup your backend as a Spring Boot app. 
-2. Be sure to have picked your model by now. 
-3. If there's time, implement graphQL into your backend. 
 
 
 ## Links
-
-[https://www.baeldung.com/java-decorator-pattern](Baeldung Decorator example)
-
-[https://en.wikipedia.org/wiki/Software_design_pattern](Design Pattern Wikipedia Page)
-
-[http://www.blackwasp.co.uk/gofpatterns.aspx](Gang of Four Design Patterns)
-
 
 ## Quote of the Day 
 ```

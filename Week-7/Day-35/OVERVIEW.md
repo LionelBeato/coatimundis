@@ -1,10 +1,10 @@
-# March 11, 2019 - Day 33
+# March 13, 2019 - Day 35
 
 
 ## Agenda
 
-- Review Java and OOP design patterns. 
-- Set up our Project's backends. 
+- Review packaging code and deployment.
+- Launch our apps.  
 
 
 ## Outline
@@ -22,19 +22,9 @@
 
 ## Lab
 
-### Design Pattern Practice
-
-1. Review the slides and lab and look at all the examples. Make sure you understand the implementation of these patterns. 
-2. If you can, try to create a singleton of your choice, a factory of your choice, and implement the decorator pattern.
-
 
 ## Homework
 
-### Keep Working on your App
-
-1. Keep Working on your frontend and setup your backend as a Spring Boot app. 
-2. Be sure to have picked your model by now. 
-3. If there's time, implement graphQL into your backend. 
 
 
 ## Links
