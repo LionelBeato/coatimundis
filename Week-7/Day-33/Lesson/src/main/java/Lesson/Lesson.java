@@ -1,8 +1,6 @@
 package Lesson;
 
-import Lesson.Factory.Computer;
-import Lesson.Factory.ComputerFactory;
-import Lesson.Factory.PC;
+import Lesson.Factory.*;
 import Lesson.Singleton.LazyInitSingleton;
 import Lesson.Singleton.StaticBlockSingleton;
 
@@ -32,13 +30,24 @@ public class Lesson {
 
         // factory pattern
         // abstract factory pattern
+
+
         // observer pattern
+
+        // observer is a behavior design pattern
+        // it specifies the communication between objects: observable and observers
+        // an observable is an object which notifies observers about the changes in its state
+
         // decorator pattern
+        // the purpose of the decorator is to wrap a target object so
+        // that you can dynamically add new responsibilities at runtime.
+
 
         // building a new computer with my factory
         Computer myPC = ComputerFactory.getComputer("PC", "16GBDDR4", "1TB", "i7");
 
         System.out.println(myPC.toString());
+
 
     }
 }
