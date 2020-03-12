@@ -38,13 +38,16 @@
 
 ## Quote of the Day 
 ```
- ________________________________________
-/ Let's organize this thing and take all \
-\ the fun out of it.                     /
- ----------------------------------------
+ _______________________________________
+/ "The chain which can be yanked is not \
+| the eternal chain."                   |
+|                                       |
+\ -- G. Fitch                           /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
+
 ```
