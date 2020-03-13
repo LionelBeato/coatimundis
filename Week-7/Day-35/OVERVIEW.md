@@ -3,8 +3,8 @@
 
 ## Agenda
 
-- Review packaging code and deployment.
-- Launch our apps.  
+- Review packaging code and organization.
+- Continue working on our APIs. 
 
 
 ## Outline
@@ -22,6 +22,11 @@
 
 ## Lab
 
+### Organize your GraphQL project
+
+1. Restructure your GraphQL project so that it makes use of packages. 
+2. Think about any packages you make need in the future and create them if need be. 
+
 
 ## Homework
 
@@ -29,11 +34,6 @@
 
 ## Links
 
-[https://www.baeldung.com/java-decorator-pattern](Baeldung Decorator example)
-
-[https://en.wikipedia.org/wiki/Software_design_pattern](Design Pattern Wikipedia Page)
-
-[http://www.blackwasp.co.uk/gofpatterns.aspx](Gang of Four Design Patterns)
 
 
 ## Quote of the Day 

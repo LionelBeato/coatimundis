@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CodeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-13T12:48:31" hostname="Jackie" time="0.012">
+  <properties/>
+  <testcase name="returns_certain_value_specified()" classname="CodeTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
