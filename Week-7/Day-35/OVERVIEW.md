@@ -30,6 +30,13 @@
 
 ## Homework
 
+### Add to your GraphQL project
+
+1. Add more entities to your project so that there's at least 20. 
+2. Refactor any necessary code as a result..
+3. Add in any appropiate queries for your data in your schema. 
+4. Refactor your DataFetcher and Provider accordingly. 
+
 
 
 ## Links
