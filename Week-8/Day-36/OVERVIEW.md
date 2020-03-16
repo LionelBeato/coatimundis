@@ -39,6 +39,9 @@
 
 ## Links
 
+(CSV to SQL converter)[https://www.convertcsv.com/csv-to-sql.htm]
+
+(Mockaroo test data generator)[https://mockaroo.com/]
 
 
 ## Quote of the Day 
