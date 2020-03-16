@@ -6,7 +6,6 @@
 - Review SQL and relational databases.
 - Practice our graphQL for the week. 
 
-
 ## Outline
 
 | Time   | Objective                        |
@@ -36,6 +35,10 @@
 1. Install a version of SQL (MariaDB comes recommended).
 2. Be sure to install a GUI for your database (tableplus).
 3. Refer to the homework on Titus for further instructions. 
+4. Create a small csv test data file with mockaroo and use it in your database. 
+5. Try to create a custom record using `INSERT`.
+6. Try to to delete a record using `DROP`. 
+7. (Optional) If you can, Connect MariaDB to your GraphQL project. You would need to add in the necessary dependency and change your `application.properties`. 
 
 ## Links
 
