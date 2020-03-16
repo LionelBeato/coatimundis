@@ -1,10 +1,10 @@
-# March 13, 2019 - Day 35
+# March 16, 2019 - Day 36
 
 
 ## Agenda
 
-- Review packaging code and organization.
-- Continue working on our APIs. 
+- Review SQL and relational databases.
+- Practice our graphQL for the week. 
 
 
 ## Outline
@@ -27,10 +27,11 @@
 1. In your project, create a new model for your graphQL. 
 2. Create all of the necessary code in your DataFetcher and your Provider. 
 3. Be sure to write your query in your Schema. 
-4. Using postman and a `POST` method, be sure to test your API with a query. 
-
+4. Using postman and a `POST` method, be sure to test your API with a query.
 
 ## Homework
+
+### SQL Practice
 
 
 ## Links
@@ -40,6 +41,17 @@
 ## Quote of the Day 
 ```
 
-
+ _________________________________________
+/ Be regular and orderly in your life, so \
+| that you may be violent and original in |
+| your work.                              |
+|                                         |
+\ -- Flaubert                             /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
 ```
