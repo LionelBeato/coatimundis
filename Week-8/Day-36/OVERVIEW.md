@@ -33,6 +33,9 @@
 
 ### SQL Practice
 
+1. Install a version of SQL (MariaDB comes recommended).
+2. Be sure to install a GUI for your database (tableplus).
+3. Refer to the homework on Titus for further instructions. 
 
 ## Links
 
