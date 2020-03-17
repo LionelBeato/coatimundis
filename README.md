@@ -56,22 +56,20 @@ Repository for all of the classwork content related to Tech Talent South!
 
 ## Week 7: Advanced Practices and Databases  (March 9, 2020)
 
-
-31. Java Exception
-32. Design Patterns
-33. Web Services
-34. Packing Code
-35. Intro to Databases and SQL
+31. NO CLASS
+32. Java Exception
+33. Design Patterns
+34. Web Services
+35. Packaging Code
 
 ## Week 8: Advanced SQL and Java Database Technology    (March 16, 2020)
 
-
-36. Fundamentals of Table Manipulation
-37. Table Relationships
-38. Java Database Connector
-39. Transactions and Triggers / Subselects and Views
-41. TBA
-
+36. Intro to Databases and SQL
+37. Fundamentals of Table Manipulation
+38. Table Relationships
+39. Java Database Connector
+40. Transactions and Triggers / Subselects and Views
+ n 
 ## Week 9: TBA   (March 23, 2020)
 
 
