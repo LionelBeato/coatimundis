@@ -25,8 +25,6 @@
 1. Complete your SQL assignment using the world pop csv.
 2. If you have time, practice SQL commands with your own data from mockaroo. 
 
-## Lab
-
 ### Work on Gatsby
 
 1. Keep refining and finetuning your Gatsby frontend.
@@ -40,8 +38,6 @@
 2. Create a new table called `albums` and reference that table in your `songs` table.
 3. Write a `JOIN` between the `albums` table and the `artist` table. Join the tables by name. 
 
-
-
 ## Links
 
 
@@ -49,7 +45,6 @@
 
 ## Quote of the Day 
 ```
-
  _________________________________________
 / "The best index to a person's character \
 | is a) how he treats people who can't do |
