@@ -31,7 +31,7 @@
 ### JDBC Practice
 
 1. In a new Java Project, write out a basic connection to your MariaDB database. 
-2. Perform some sort of query on that database. 
+2. Perform some sort of query on that database. See what you can implement! 
 
 
 ## Links
