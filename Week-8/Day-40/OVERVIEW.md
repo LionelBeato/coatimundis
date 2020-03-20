@@ -3,7 +3,7 @@
 
 ## Agenda
 
-- Continue working on SQL and getting started on Java reviewing. 
+- Cover SQL subselects and transactions and get started on Java reviewing. 
 
 ## Outline
 
@@ -20,8 +20,18 @@
 
 ## Lab
 
+### Java Assessment Review
+
+1. Review anything on Java you feel that you need to. 
+2. Be sure to ask me any questions at all! 
+
 
 ## Homework
+
+### Subselects and Views
+
+1. Using your MariaDB database, practice subselects. 
+2. Once you're done with that, create a custom view for your database. You can use any legal transaction for a view. 
 
 
 ## Links
