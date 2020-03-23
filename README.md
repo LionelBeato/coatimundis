@@ -144,6 +144,8 @@ Repository for all of the classwork content related to Tech Talent South!
 
 ## I
 
+- *IDE* : this stands for integrated-development-environment. It defines the development tool you use to write your code. Think *Intellij* or *Eclipse*. 
+
 - *inheritance* : the concept that objects can have properties that stem from parent objects; "the child can do everything the parent can, plus more." 
 
 - *interface* : a class that does not have implementation and which other classes can implement.
