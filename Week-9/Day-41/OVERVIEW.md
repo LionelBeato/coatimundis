@@ -27,9 +27,13 @@
 
 ## Homework
 
+### Back to Gatsby
 
+- There's no real homework for today but feel free to take a look at my gatsby repo down below in the links. We will be picking gatsby back up tomorrow and working on that all day. 
 
+## Links
 
+[Gatsby Front End](https://github.com/LionelBeato/gatsby-frontend)
 
 ## Quote of the Day 
 ```
