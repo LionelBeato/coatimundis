@@ -3,7 +3,7 @@
 
 ## Agenda
 
-- Review Java essentials and prepare for our assessment today. 
+- Finally connect our GraphQL backends to our gatsby frontends. 
 
 ## Outline
 
@@ -20,17 +20,15 @@
 
 ## Lab
 
-### Java Assessment Study
 
-1. For our labtime, let's study and review any parts of Java we feel we need to.
-2. We will have our Java Assessment at 1:00PM. 
+### Gatsby Frontend
 
-## Homework
+1. Using my code as a reference, hookup your gatsby frontend to your Java backend. 
+2. Be sure to start by editing your `gatsby-config` file.
+3. After that, make a page query in whatever page you want to render your data. 
+4. You can test your query by going to the graphiql GUI of your app. 
+5. Once things are hooked up, continue working on your frontend's styling and properties. We'll attempt to deploy what we have tomorrow! 
 
-### Prepare Gatsby
-
-- There's no real homework for today but feel free to take a look at my gatsby repo down below in the links. We will be picking gatsby back up tomorrow and working on that all day. 
-- My frontend's graphql API is in working order. Feel free to reference it for yours! 
 
 ## Links
 
