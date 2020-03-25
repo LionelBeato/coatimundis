@@ -58,7 +58,7 @@ type Mutation {
 
 5. In your `Runner`, wrap the list code with a `while (true)` block so that the code continously updates. 
 
-6. Test your code with Postman! Here is an example mutation query with my code:
+6. Test your code with Postman! **Take note that GraphQL seems picky about your formatting and indentation.** Here is an example mutation query with my code:
 
 ```GraphQL
 
@@ -86,5 +86,5 @@ mutation{
                 ||----w |
                 ||     ||
 
-                
+
 ```
