@@ -3,7 +3,8 @@
 
 ## Agenda
 
-- Finally connect our GraphQL backends to our gatsby frontends. 
+- Continue working on your Gatsby projects. 
+- If there's time, lets get to mutations. 
 
 ## Outline
 
@@ -20,33 +21,29 @@
 
 ## Lab
 
+### Continue working on Gatsby project
 
-### Gatsby Frontend
-
-1. Using my code as a reference, hookup your gatsby frontend to your Java backend. 
-2. Be sure to start by editing your `gatsby-config` file.
-3. After that, make a page query in whatever page you want to render your data. 
-4. You can test your query by going to the graphiql GUI of your app. 
-5. Once things are hooked up, continue working on your frontend's styling and properties. We'll attempt to deploy what we have tomorrow! 
+1. Work on your Gatsby frontends. 
+2. In your backends, create a new model with the appropiate GraphQL code and schema definitions. 
+3. Add items of your model type using SQL. 
+4. Make a new corresponding Gatsby page for your new model.  
 
 
-## Links
-
-[Gatsby Front End](https://github.com/LionelBeato/gatsby-frontend)
 
 ## Quote of the Day 
 ```
- ________________________________________
-/ Consider well the proportions of       \
-| things. It is better to be a young     |
-| June-bug than an old bird of paradise. |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _________________________________________
+/ It was the Law of the Sea, they said.   \
+| Civilization ends at the waterline.     |
+| Beyond that, we all enter the food      |
+| chain, and not always right at the top. |
+|                                         |
+\ -- Hunter S. Thompson                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
+
 ```
