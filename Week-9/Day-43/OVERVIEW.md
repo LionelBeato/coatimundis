@@ -72,6 +72,10 @@ mutation{
 
 ```
 
+## Links
+
+[GraphQL Queries and Mutations](https://graphql.org/learn/queries/)
+
 ## Quote of the Day 
 ```
  ________________________________________

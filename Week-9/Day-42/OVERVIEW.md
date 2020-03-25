@@ -22,8 +22,9 @@
 
 ### Continue working on Gatsby project
 
+1. Continue your work on the Gatsby frontend. By now you should have your GraphQL queries working on your page. 
 
-
+2. Feel free to reference my Gatsby project!
 
 ## Quote of the Day 
 ```
