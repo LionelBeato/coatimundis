@@ -1,10 +1,9 @@
-# March 19, 2019 - Day 39
+# March 19, 2019 - Day 42
 
 
 ## Agenda
 
 - Continue working on your Gatsby projects. 
-- If there's time, lets get to mutations. 
 
 ## Outline
 
@@ -23,54 +22,8 @@
 
 ### Continue working on Gatsby project
 
-1. Work on your Gatsby frontends. 
-2. In your backends, create a new model with the appropiate GraphQL code and schema definitions. 
-3. Add items of your model type using SQL. 
-4. Make a new corresponding Gatsby page for your new model.  
 
-## Homework
 
-### Add mutation
-
-1. In your Java graphQL project, got your schema and add a new type called `Mutation`. 
-2. For your `Mutation` type, add a field that will create a new entity like so:
-
-```GraphQL
-type Mutation {
-    createArcadeGame(name:String, amountOfPlayers:Int):ArcadeGame!
-}
-```
-3. In your GraphQLDataFetchers class, add a method for creating a new entity like so:
-
-```Java
-    public DataFetcher createArcadeGame(){
-        return dataFetchingEnvironment -> {
-            String name = dataFetchingEnvironment.getArgument("name");
-            int amountOfPlayers = dataFetchingEnvironment.getArgument("amountOfPlayers");
-            ArcadeGame newArcadeGame = new ArcadeGame(name, amountOfPlayers);
-            arcadeGameRepository.save(newArcadeGame);
-            return newArcadeGame;
-        };
-    }
-```
-
-4. Once that's done, update your Provider so that it has the new `Mutation` type. 
-
-5. In your `Runner`, wrap the list code with a `while (true)` block so that the code continously updates. 
-
-6. Test your code with Postman! Here is an example mutation query with my code:
-
-```GraphQL
-
-mutation{
-    createArcadeGame(name:"new", 
-    amountOfPlayers:1){
-        id
-        name 
-    }
-}
-
-```
 
 ## Quote of the Day 
 ```
