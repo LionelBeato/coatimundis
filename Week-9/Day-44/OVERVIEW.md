@@ -83,7 +83,7 @@
             response.setHeader("Access-Control-Allow-Headers", "Origin, Content-Type, Accept");
             response.setHeader("Access-Control-Allow-Credentials", "true");
             filterChain.doFilter(servletRequest, servletResponse);
-        }
+        }+
     }
 
 

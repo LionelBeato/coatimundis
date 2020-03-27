@@ -4,7 +4,7 @@
 ## Agenda
 
 - Implement your frontend mutation.
-- Deploy your Gatsby app! 
+- Play around with netlify 
 
 ## Outline
 
@@ -30,8 +30,23 @@
 
 ### Deployment!
 
+1. While we can deploy our applications just fine, we would need to do some considerable tinkering with it. I will opt to end our app development here considering the following:
+
+    - Our SQL databases would need to be hosted. 
+    - Our Backends would also need to be hosted (though we've practiced this!).
+    - Finally, our frontend configurations need to be properly set for hosting. 
+
+2. You can attempt to deploy via netlify, though it wont work. A link is provided in your frontend's README. Take note that you would have to make a new account and the link will request to make a new repo. If you want to try netflify, navigate to `app.netlify.com` and make a new account there. You can then grant access to your repos and target any repo for deployment. 
+
+3. Next week we will create an online database solution using a cloud platform (most likely firebase). Be prepared by making a firebase account at `firebase.google.com `.  We will use *serverless functions* along with a noSQL cloud implementation. 
+
 
 ## Links
+
+[Firebase from Google](https://firebase.google.com)
+
+[React Hooks](https://reactjs.org/docs/hooks-intro.html)
+
 
 
 ## Quote of the Day 
