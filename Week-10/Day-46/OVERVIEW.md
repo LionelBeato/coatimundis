@@ -35,6 +35,14 @@
 ```
 3. Continue iterating on what you learned to make a new app that serves some sort of content. 
 
+## Homework
+
+### React Practice
+
+1. Lets practice some React! Using `npx create-react-app`, make a new React project. 
+2. Make a new component and create props for it. Have the component render the value of its props to the DOM. 
+3. In your `App.js` call the component and define its props! 
+
 ## Quote of the Day 
 ```
  _____________________________________
