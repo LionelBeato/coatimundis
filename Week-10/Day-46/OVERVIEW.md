@@ -22,8 +22,18 @@
 
 ### Create a new Backend! 
 
-1. Let's create a new GraphQL backend, this time utilizing h2 for more rapid development. 
-2. Once we're happy with our backends, lets go ahead and deploy to heroku. 
+1. Let's create a new GraphQL backend, this time utilizing h2 for more rapid development. Go to [https://start.spring.io/](the Sring Initializer) and select the following: 
+    - Spring Web
+    - Spring Data JPA
+    - H2 Database
+2. Once that's done, in your projects build.gradle add the following line to your dependencies:
+
+```groovy
+	implementation 'com.graphql-java:graphql-java:11.0'
+	implementation 'com.graphql-java:graphql-java-spring-boot-starter-webmvc:1.0'
+	implementation 'com.google.guava:guava:26.0-jre'
+```
+3. Continue iterating on what you learned to make a new app that serves some sort of content. 
 
 ## Quote of the Day 
 ```
