@@ -3,7 +3,7 @@
 
 ## Agenda
 
-- Keep working on your GraphQL Projects! 
+- Create a new GraphQL backend for the week. 
 
 ## Outline
 
@@ -20,12 +20,10 @@
 
 ## Lab
 
-### Keep working on your GraphQL backends
+### Create a new Backend! 
 
-1. Keep working on your backends. 
+1. Let's create a new GraphQL backend, this time utilizing h2 for more rapid development. 
 2. Once we're happy with our backends, lets go ahead and deploy to heroku. 
-
-## Homework
 
 ## Quote of the Day 
 ```
