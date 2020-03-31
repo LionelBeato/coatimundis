@@ -4,6 +4,7 @@
 ## Agenda
 
 - Deploy your backends for the week. 
+- Deploy your frontends for the week as well. 
 
 ## Outline
 
@@ -36,7 +37,7 @@
 
 1. Create another frontend for your Project! You can use whatever framework you want but I'll be sticking with Gatsby. 
 2. Hook up your frontend so that it renders content from your backend. Recall that you would need to install `Apollo` and all associated depedencies if you are using Apollo. 
-3. Host it on netlify! Follow the step if you don't remember how to do it. 
+3. Host it on netlify! Follow the steps from friday if you don't remember how to do it. 
 
 ## Quote of the Day 
 ```
