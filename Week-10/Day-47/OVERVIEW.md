@@ -23,7 +23,7 @@
 
 ### Heroku Deployment
 
-1. Though you can build your project using `gradlew build` and upload the `.jar`, it's actually simpler to go to your project root and write `heroku create` in a terminal. 
+1. First, you need to write `gradlew` in your root. Though you can build your project using `gradlew build` and upload the `.jar`, it's actually simpler to go to your project root and write `heroku create` in a terminal. 
 
 2. In your `application.properties`, make sure you have the following line: `server.port=${PORT:8080}`.
 
