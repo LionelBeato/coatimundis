@@ -3,6 +3,9 @@
 
 ## Agenda
 
+- Setup a Heroku database 
+- Hook up our mutation, creating a custom popup prompt for our frontends 
+
 
 
 ## Outline
@@ -22,10 +25,14 @@
 
 ## Quote of the Day 
 ```
- ______________________________________
-/ Just because you're paranoid doesn't \
-\ mean they AREN'T after you.          /
- --------------------------------------
+ _________________________________________
+/ When you say that you agree to a thing  \
+| in principle, you mean that you have    |
+| not the slightest intention of carrying |
+| it out in practice.                     |
+|                                         |
+\ -- Otto Von Bismarck                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
