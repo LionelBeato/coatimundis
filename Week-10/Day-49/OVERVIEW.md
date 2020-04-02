@@ -30,50 +30,99 @@
 
 3. You will need to adjust your `Runner` class and `Post` model. In your `Runner` add the following block of code:
 
-```Java
-import java.io.*;
-import java.util.Scanner;
+        ```Java
+        import java.io.*;
+        import java.util.Scanner;
 
-// ... 
+        // ... 
 
-ClassLoader cl = this.getClass().getClassLoader();
-    InputStream inputStreamOne = cl.getResourceAsStream("posts/first.txt");
-    InputStream inputStreamTwo = cl.getResourceAsStream("posts/second.txt");
-    InputStream inputStreamThree = cl.getResourceAsStream("posts/third.txt");
+        ClassLoader cl = this.getClass().getClassLoader();
+        InputStream inputStreamOne = cl.getResourceAsStream("posts/first.txt");
+        InputStream inputStreamTwo = cl.getResourceAsStream("posts/second.txt");
+        InputStream inputStreamThree = cl.getResourceAsStream("posts/third.txt");
 
 
-    Scanner scannerOne = new Scanner(inputStreamOne);
-    Scanner scannerTwo = new Scanner(inputStreamTwo);
-    Scanner scannerThree = new Scanner(inputStreamThree);
+        Scanner scannerOne = new Scanner(inputStreamOne);
+        Scanner scannerTwo = new Scanner(inputStreamTwo);
+        Scanner scannerThree = new Scanner(inputStreamThree);
 
-    public Runner() throws IOException {
-    }
+        public Runner() throws IOException {
+        }
 
-```
+        ```
 
-ClassLoader is used to load classes into our program but it can handle resources as well. Specifically, it handles resources as a stream, ergo the method `getResourceAsStream`. We pass in our resource path into it as a string. The Scanners take in our streams as arguments, allowing us to later render the data. The default constructor simply allows us to have the class throw an error; this is necessary for our InputStreams to work. 
+     ClassLoader is used to load classes into our program but it can handle resources as well. Specifically, it handles resources as a stream, ergo the method `getResourceAsStream`. We pass in our resource path into it as a string. The Scanners take in our streams as arguments, allowing us to later render the data. The default constructor simply allows us to have the class throw an error; this is necessary for our InputStreams to work. 
 
 4. Add the following code to your `run` method:
 
-```Java
-String textOne = scannerOne.useDelimiter("\\A").next();
-        String textTwo = scannerTwo.useDelimiter("\\A").next();
-        String textThree = scannerThree.useDelimiter("\\A").next();
-```
+        ```Java
+        String textOne = scannerOne.useDelimiter("\\A").next();
+                String textTwo = scannerTwo.useDelimiter("\\A").next();
+                String textThree = scannerThree.useDelimiter("\\A").next();
+        ```
 
-This code allows our scanner to intrepet the content of our files as a string, and stops at the escaping character `\\A`, ending the stream. 
+    This code allows our scanner to intrepet the content of our files as a string, and stops at the escaping character `\\A`, ending the stream. 
 
 5. In your `run` method, change the constructors for each new post so that it accepts our Strings that we defined in the previous step. It will look like this:
 
-```Java
-        postRepo.save(new Post(sdf.format(new Date()), "hello", textOne));
-        postRepo.save(new Post(sdf.format(new Date()), "new post", textTwo));
-        postRepo.save(new Post(sdf.format(new Date()), "other rambling", textThree));
-```
+        ```Java
+                postRepo.save(new Post(sdf.format(new Date()), "hello", textOne));
+                postRepo.save(new Post(sdf.format(new Date()), "new post", textTwo));
+                postRepo.save(new Post(sdf.format(new Date()), "other rambling", textThree));
+        ```
 
 6. Now, in your `Post` model, we need to change the way H2 handles our `body` field. We can do this using annotations. Above `body` add the following annotations: `@Column(name = "body", columnDefinition="TEXT")`. Here, we're defining a custom name for our SQL column and defining it. We want to use "TEXT" because the "TEXT" definition has an indefinite limit for an amount of characters. This is perfect for our blog! 
 
 7. After committing, go ahead and `git push heroku master` and see if it deployed successfully! Test out your API in Postman. 
+
+## Homework
+
+### Adding a Post Mutation 
+
+1. Now we want the ability to submit posts. We can do this utilizing mutations! First, in your backend's schema add the following line:
+
+        ```graphQL
+
+        type Mutation {
+        createPost(date:String, title:String, body:String):Post!
+        }
+        ```
+2. In your `GraphQLDataFetchers` class, go ahead and create a new method for your mutation. This is where would define all business logic related to our API. The following method is a good start: 
+
+        ```Java
+        public DataFetcher createPost(){
+                return dataFetchingEnvironment -> {
+                SimpleDateFormat sdf = new SimpleDateFormat("yyyy/MM/dd");
+                String postTitle = dataFetchingEnvironment.getArgument("title");
+                String postBody = dataFetchingEnvironment.getArgument("body");
+                Post newPost = new Post(sdf.format(new Date()), postTitle, postBody);
+                postRepo.save(newPost);
+                return newPost;
+                };
+        }
+        ```
+   Note that we are not defining `id` or `date` as these values will be handled for us by our program. 
+
+3. Now we need to hook everything up through our `GraphQLProvider`. Add the following to your RunTimeWiring return value:
+
+        ```Java
+                        .type(newTypeWiring("Mutation")
+                        .dataFetcher("createPost", graphQLDataFetchers.createPost()))
+
+        ```
+
+4. That's it! Test your mutation in postman by pointing to your server and typing in the following request:
+
+        ```GraphQL
+        mutation{
+        createPost(title:"yes", body:"hello world!"){
+                id
+                date
+                title
+                body
+        }
+        }
+        ```
 
 ## Quote of the Day 
 ```
