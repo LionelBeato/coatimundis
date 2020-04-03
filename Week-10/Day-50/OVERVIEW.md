@@ -32,31 +32,29 @@
 
 3. Now, in our front ends, go to wherever your content is being renderd and add the following to the parent element: `style={{whiteSpace:"pre-line"}}`. I have a `Post` component that looks something like this: 
 
-```JavaScript
+    ```JavaScript
 
-import React from "react"
-import { Flex, Container } from "theme-ui"
-/** @jsx jsx */
-import { jsx } from "theme-ui"
+    import React from "react"
+    import { Flex, Container } from "theme-ui"
+    /** @jsx jsx */
+    import { jsx } from "theme-ui"
 
-export const Post = props => {
-  return (
-    <Container
-      p={4}
-      bg="muted"
-      style={{
-        whiteSpace: "pre-line",
-      }}
-    >
-      <h2>{props.title}</h2>
-      <h4>{props.date}</h4>
-      <p>{props.body}</p>
-    </Container>
-  )
-}
-
-
-```
+    export const Post = props => {
+    return (
+        <Container
+        p={4}
+        bg="muted"
+        style={{
+            whiteSpace: "pre-line",
+        }}
+        >
+        <h2>{props.title}</h2>
+        <h4>{props.date}</h4>
+        <p>{props.body}</p>
+        </Container>
+    )
+    }
+    ```
 
 
 
@@ -66,26 +64,26 @@ export const Post = props => {
 
 1. We will need to create prompt for our backend mutation on the frontend. In order for this to work, we need to think of logical solutions that can address our problem. I'm opting to use a *modal* for this purpose. There just so happens to be a dependency that handles modals for us using react. Go ahead and type the following into your terminal:
 
-```Shell
-npm i react-modal
-```
+    ```Shell
+    npm i react-modal
+    ```
 
 2. Now we need to utilize a Form of some sort. I'm using theme-ui's form boilerplate but feel free to augment the code to whatever framework you're using. 
 
 3. Before we implement our form we will need to define our mutations. I have written out the following *operation* for my createPost mutation:
 
-```GraphQL
+    ```GraphQL
 
-const ADD_POST = gql`
-  mutation($title: String, $body: String) {
-    createPost(title: $title, body: $body) {
-      title
-      date
-      body
+    const ADD_POST = gql`
+    mutation($title: String, $body: String) {
+        createPost(title: $title, body: $body) {
+        title
+        date
+        body
+        }
     }
-  }
-`
-```
+    `
+    ```
 
 4. Moving on, let's now go ahead and define our states. We will be using four states to handle all of our front end logic and changes. If your page doesn't have a traditional function body( e.g. `{ }` ), add some and wrap the JSX around a return statement ( e. g. `return ( JSX_GOES_HERE )` ). I have defined the following hooks:
 
@@ -126,7 +124,6 @@ const ADD_POST = gql`
 6. To wrap up the front end portion, we need to define our modal in JSX. Here I have my defined modal with *theme-ui* code:
 
     ```JSX
-
       return (
 
         <ReactModal isOpen={modal}>
@@ -149,11 +146,11 @@ const ADD_POST = gql`
 
 7. Once last thing! We need to add a line of code to our backend datafetcher mutation method. Add the following to `createPost` before your return statement: 
 
-    ```Java
+   ```Java
                 posts = StreamSupport
                     .stream(postRepo.findAll().spliterator(), false)
                     .collect(Collectors.toList());
-    ```
+   ```
 
 8. And you're done! Test it out and see if it works! You may have noticed that it doesn't auto update. You will need to reload the page in order for Apollo to fetch the relevant data again. There is a simple solution to this that we implemented in our last gatsby project. Take a look at that one and try and figure it out!
 
