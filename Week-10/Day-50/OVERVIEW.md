@@ -68,7 +68,8 @@
     npm i react-modal
     ```
 
-2. Now we need to utilize a Form of some sort. I'm using theme-ui's form boilerplate but feel free to augment the code to whatever framework you're using. 
+2. Now we need to utilize a Form of some sort. I'm using theme-ui's form boilerplate but feel free to augment the code to whatever framework you're using. To start, add the following import to your react page: `import ReactModal from "react-modal"`. 
+ 
 
 3. Before we implement our form we will need to define our mutations. I have written out the following *operation* for my createPost mutation:
 

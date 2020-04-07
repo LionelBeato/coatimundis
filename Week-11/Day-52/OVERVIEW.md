@@ -26,12 +26,11 @@
 2. Now, click on "new Project." It will prompt you for a template; select the "basic kanban." 
 3. Finally, create any notes/issues you want to track. This board will help you organize any ideas you may have is a good indicator of development milestones. 
 
+## Homework 
+
 ### Backend PostgresQL Implementation
 
 - If you haven't already, review the homework from yesterday and follow the steps to add a database to your app. 
-
-## Homework 
-
 
 ## Quote of the Day 
 ```
