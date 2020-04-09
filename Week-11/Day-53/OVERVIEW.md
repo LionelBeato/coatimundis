@@ -30,11 +30,11 @@
 
 ### Firebase!!
 
-1. Let's install firebase. Firebase utilizes a command line interface that is provided to us through `npm`. Use `npm install -g firebase-tools` at your terminal to install firebase globally. 
+1. Let's install firebase. Firebase utilizes a command line interface that is provided to us through `npm`. Use `npm install -g firebase-tools` at your terminal to install firebase globally. If you're on Windows and it's not working try the command `npm install -g windows-build-tools` in conjunction with installing `firebase-tools`. 
 
 2. Create a firebase project at [firebase.google.com](firebase.google.com). Click on "get started" and then click "add project". Navigate through the default options for your project. 
 
-3. Make an empty folder and write the command `firebase init hosting` in that folder. Go through the options. It will prompt you for a public directory; simply hit enter for the default. Enter `y` to configure as a single page app. 
+3. Make an empty folder and write the command `firebase login` in order to login to your firebase account and then `firebase init hosting` in that folder. Go through the options. It will prompt you for a public directory; simply hit enter for the default. Enter `y` to configure as a single page app. 
 
 4. You can immediate serve the app using `firebase serve`. You can even immediately deploy using `firebase deploy`. For now let's serve this app. Take note of what you see in your browser. The default URL should be `localhost:5000`. The app will have hot reloading enabled by default, so there's no need to re-serve or reload your webpage. 
 
