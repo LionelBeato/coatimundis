@@ -45,6 +45,63 @@
     <Post bodyStyle="line-clamp" title={el.title} date={el.date} body={el.body} />
     ```
 
+3. You may be wondering how you would expand the post. There are many ways to do this but one solid method would be to add a modal that contains the full text of the post inside of `post.js`. Your `post.js` would then need to handle the modal state via the `useState()` hook. It will also need its own `handleClick` method. For brevity's sake, here's the entirety of my `post.js`:
+
+    ```JSX
+    import React, { useState } from "react"
+    import { Flex, Container, Button } from "theme-ui"
+    /** @jsx jsx */
+    import { jsx } from "theme-ui"
+    import "../styles/global.css"
+    import ReactModal from "react-modal"
+
+
+    export const Post = props => {
+
+    const [modal, setModal] = useState(false)
+
+    const handleClick = () => {
+        console.log("this works")
+        setModal(!modal)
+    }
+
+
+
+    return (
+        <div>
+
+        {/* modal code for my post, clicking on the "close" button
+            or the post title will dismiss the modal */}
+        <ReactModal isOpen={modal}>
+        <Button onClick={handleClick}  sx={{float: "right"}}>close</Button>
+        <h2 className="title" onClick={handleClick} className="title">{props.title}</h2>
+            <h4>{props.date}</h4>
+            <p>{props.body}</p>
+        </ReactModal>
+
+        <Container
+            p={4}
+            bg="muted"
+            sx={{
+            whiteSpace: "pre-line",
+            }}
+        >
+
+            {/* code for opening the post as a modal, the title will appear
+                clickable because of the title css class */}
+            <h2 onClick={handleClick} className="title">{props.title}</h2>
+            <h4>{props.date}</h4>
+            <p className={props.bodyStyle} >{props.body}</p>
+        </Container>
+        </div>
+
+    )
+    }
+
+    ```
+
+    This method works completely fine but is a bit a of a hack. Note that my `handleClick` is set to my post title so if I click it, I am able to to open the modal (and also close it!). 
+
 ## Homework
 
 ### Create your Portfolio Site 
