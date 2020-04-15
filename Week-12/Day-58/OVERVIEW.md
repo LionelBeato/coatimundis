@@ -104,11 +104,17 @@
 
 ## Homework
 
+
+### Paging and Sorting
+
+1. Our project currently has a limited amount of entities to handle, so it's fine that we render them all on one page. However, what if we were to have 25 entities, or 100, or even 500? That single page would be very long and probably very slow. This is where pagination comes in. 
+
 ### Create your Portfolio Site 
 
 
 1. Using whatever technology you want, create your portfolio site where you can express yourself and showcase your work! 
 2. Start thinking about your strengths and weaknesses and how you want to write about yourself on your resume.  
+3. If you need some inspiration, take a look at my quick and [dirty personal site](https://fds3sd.web.app/). It still needs to be exanded upon but I believe its a decent example of what I want to start seeing.
 
 ## Quote of the Day 
 ```
