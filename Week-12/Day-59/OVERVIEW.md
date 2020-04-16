@@ -203,7 +203,7 @@ let navArr = []
 
 ### On Pagination 
 
-So our pagination example above works fine, but it may not be considered ideal for production as there alternate methods within the gatsby API, the graphQL API, and the Apollo API. Our solution is more or less legitimate but not without its bugs. On your own time, I recommend researching pagination solutions that may fit your data best. 
+So our pagination example above works fine, but it may not be considered ideal for production as there are alternate methods within the gatsby API, the graphQL API, and the Apollo API. Our solution is more or less legitimate but not without its bugs. On your own time, I recommend researching pagination solutions that may fit your data best. 
 
 `PagingAndSortingRepository` is very useful, regardless. Note that `JpaRepository` extends `PagingAndSortingRepository` so it may be simplest to use that interface instead for future Java Projects. 
 
