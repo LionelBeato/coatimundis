@@ -104,13 +104,6 @@
 
 ## Homework
 
-
-### Paging and Sorting
-
-1. Our project currently has a limited amount of entities to handle, so it's fine that we render them all on one page. However, what if we were to have 25 entities, or 100, or even 500? That single page would be very long and probably very slow. This is where pagination comes in. 
-
-2. MORE COMING SOON :) 
-
 ### Create your Portfolio Site 
 
 
