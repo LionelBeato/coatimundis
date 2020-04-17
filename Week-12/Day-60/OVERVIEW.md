@@ -45,7 +45,7 @@
 
 ## Quote of the Day 
 ```
- _________________________________________
+ ________________________________________
 / It is against the grain of modern       \
 | education to teach children to program. |
 | What fun is there in making plans,      |
