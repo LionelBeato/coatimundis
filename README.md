@@ -154,11 +154,15 @@ Repository for all of the classwork content related to Tech Talent South!
 
 - *machine code* : a set of instructions that can be easily understood by a CPU. 
 
+- *microservice* : a loosely coupled architectural design pattern that emphasizes small modular services. Compare/contrast with *monolith*. 
+
 - *middleware* : code that is packaged and used as boilerplate for your application. 
+
+- *monolith* : a design pattern that emphasizes the use of a single codebase for all major functionalities. Thus, the frontend, backend, and database will all live in one project. 
 
 ## O
 
-- *object* : a variable that may represent data/values in whatever structure. In class-based languages, an object refers to an *instance* of that class. 
+- *object* : a variable that may represent data/values in whatever structure. In class-based languages, an object refers to an *instance* of a class. 
 
 ## P
 
