@@ -43,6 +43,12 @@
 
 5. Push it to GitHub! 
 
+## Links
+
+- [Kotlin Documentation Portal](https://kotlinlang.org/docs/reference/)
+- [Kotlin Koans](https://play.kotlinlang.org/koans/overview) , a series of small excerises for the language
+- 
+
 ## Quote of the Day 
 ```
  ________________________________________
